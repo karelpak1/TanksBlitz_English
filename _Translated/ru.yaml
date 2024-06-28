@@ -302,7 +302,7 @@
 "GameMode/GameModeScreen/Title": "Choose a battle mode"
 "GameMode/GameModeScreen/GameModeAvailableCount": "Currently available %(received) of %(total)"
 "GameMode/GameModeCard/Daily": "Daily"
-"GameMode/GameModeCard/AvailabilityTimer": "Will be available via"
+"GameMode/GameModeCard/AvailabilityTimer": "Will be available in:"
 "GameMode/GameModeCard/AvailabilityDescription": "Not suitable for platoon play"
 "battleType/training": "Training"
 "hangar/battleType/trainingHeader": "TRAINING"
