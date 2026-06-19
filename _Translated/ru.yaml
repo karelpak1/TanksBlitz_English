@@ -2283,3 +2283,1037 @@
 "#japan_vehicles:Chassis_J36_Type_63_HT": "Type 63"
 "#japan_vehicles:Chassis_J36_Type_63_HT_short": "Type 63"
 "#japan_vehicles:Turret_J36_Type_63_HT": "Type 63"
+"#hangar_showcase:CustomSetAlreadyUnlocked": "Attachment already unlocked"
+"#hangar_showcase:TankPanel/CertificateLabel": "Certificate parts"
+"hangar/Filter/Button/Unpin": "Unpin" "hangar/Filter/Button/UnpinTanks": "Unpin
+tanks" "hangar/Filter/Button/Random": "Random select"
+"hangar/Filter/Popup/HasNoFilter": "No filter settings applied"
+"hangar/Filter/Popup/HasNoPin": "No tanks pinned" "hangar/Filter/Popup/Random":
+"No suitable tanks found. Change filter settings to select a tank randomly"
+"hangar/Filter/ModalTitle": "Select the tanks you want to unpin"
+"hangar/Filter/SelectAll": "Select all"
+"notification/notEnoughResources/lackingPremiumToShop": "Not enough Premium
+Account days. Go to the Store?" "#maps:asia:10_asia_as/10_asia_as.sc2": "Lost
+Temple" "#maps:mars_br:01_mars_mr/01_mars_br.sc2": "Extreme Arena"
+"#maps:himmelsdorf_02:19_himmelsdorf_hm/19_himmelsdorf_hm.sc2": "Himmelsdorf"
+"#maps:himmelsdorf_03:19_himmelsdorf_hm/19_himmelsdorf_hm.sc2": "Himmelsdorf
+Station" "#maps:himmelsdorf_04:19_himmelsdorf_hm/19_himmelsdorf_hm.sc2":
+"Himmelsdorf Castle" "#maps:glacier_03:42_glacier_gl/42_glacier_gl.sc2":
+"Glacier Harbor" "#maps:glacier_02:42_glacier_gl/42_glacier_gl.sc2": "Glacier
+Village" "#maps:mars_03:01_mars_mr/01_mars_mr.sc2": "PETT Block #2"
+"#maps:mars_02:01_mars_mr/01_mars_mr.sc2": "PETT Block #1"
+"#settings:Graphics/HangarSeason/Title": "GARAGE WEATHER CHANGE"
+"#settings:Graphics/HangarSeason/Description": "Changes weather conditions,
+seasons, and time of day in the Garage" "shop/ToPremShop/Label": "Premium Shop"
+"shop/Modals/PremShop": "Go to the Premium Shop?" "Shop/DropList/Item": "Item"
+"Shop/DropList/Compensation": "Compensation" "Shop/DropList/Chance": "Drop
+chance" "Shop/DropList/BaseChance": "Base" "Shop/DropList/YourChance": "Yours"
+"Shop/Tooltips/DropChanceTooltip": "This container uses reward exclusion
+mechanics.• Items already on the account are excluded from the list, increasing
+the drop chances of the remaining rewards.\n• If you have all items from this
+list on your account, you will receive compensation.Please note: your drop
+chance may update with a slight delay." "Shop/Tooltips/DropCompensationTooltip":
+"If you have all rewards from this list on your account, you will receive the
+specified compensation" "Shop/DropList/IncreasedChance": "Reward Exclusion"
+"#vehicle_customization:camouflage/skin_m46_patton/Name": "Alpha"
+"#vehicle_customization:camouflage/battlepass_2025_july_01/Name": "Cartographer"
+"#vehicle_customization:camouflage/battlepass_2025_july_02/Name": "On Vacation"
+"#vehicle_customization:camouflage/battlepass_2025_july_03/Name": "For Summer"
+"#vehicle_customization:camouflage/anim_server_quest_2025/Name": "Firefly"
+"#vehicle_customization:camouflage/skin_m-9-y/Name": "Biter"
+"#vehicle_customization:camouflage/anim_pb_01/Name": "Treacherous Lilies"
+"#vehicle_customization:camouflage/anim_pb_02/Name": "Neophyte"
+"#vehicle_customization:camouflage/anim_pb_03/Name": "Stormbringer"
+"#vehicle_customization:camouflage/anim_cbr2025_04/Name": "Persistent"
+"#vehicle_customization:camouflage/skin_g85_auf_panther/Name": "Bumblebee"
+"#vehicle_customization:camouflage/skin_it31_cc_67b/Name": "Punisher"
+"#vehicle_customization:camouflage/skin_vk4502a/Name": "Serene"
+"#vehicle_customization:camouflage/battlepass_2025_aug_01/Name": "Sandcastles"
+"#vehicle_customization:camouflage/battlepass_2025_aug_02/Name": "August
+Edition" "#vehicle_customization:camouflage/battlepass_2025_aug_03/Name": "In
+the Fields" "#vehicle_customization:camouflage/back_to_school/Name": "White
+Chalk" "#vehicle_customization:camouflage/anim_hw_2025_01/Name": "Bird of
+Happiness" "#vehicle_customization:camouflage/anim_hw_2025_02/Name": "Mooncake"
+"#vehicle_customization:camouflage/skin_t69d/Name": "Detector"
+"#vehicle_customization:camouflage/skin2_s18_emil_1951e2/Name": "Stirrer"
+"#vehicle_customization:camouflage/battlepass_2025_sept_01/Name": "Game
+Enthusiast" "#vehicle_customization:camouflage/battlepass_2025_sept_02/Name":
+"Peak Emotion" "#vehicle_customization:camouflage/battlepass_2025_sept_03/Name":
+"With Admiration" "#vehicle_customization:camouflage/skin2_m-3-y/Name": "Lizard"
+"#vehicle_customization:camouflage/battlepass_2025_nov_03/Name": "Based
+Knowledge" "#vehicle_customization:camouflage/battlepass_2025_nov_02/Name":
+"Green Scales" "#vehicle_customization:camouflage/battlepass_2025_nov_01/Name":
+"Skuf mountain ornament"
+"#vehicle_customization:camouflage/skin_r187_object_590/Name": "Blitzislav"
+"#vehicle_customization:camouflage/event_activity_hb_2025/Name": "With a Twist"
+"#vehicle_customization:camouflage/skin_02_a140_astron_rex_105/Name":
+"Substance" "#vehicle_customization:camouflage/camo_tournament_2025/Name":
+"Driven" "#vehicle_customization:camouflage/anim_cbr2025_05/Name": "Atmospheric"
+"#vehicle_customization:camouflage/battlepass_2025_oct_01/Name": "Gaze from the
+Depths" "#vehicle_customization:camouflage/battlepass_2025_oct_02/Name":
+"Numbing Cold" "#vehicle_customization:camouflage/battlepass_2025_oct_03/Name":
+"Call of the Abyss"
+"#vehicle_customization:camouflage/skin_gb_vickers_cruiser/Name": "Crabby"
+"#vehicle_customization:camouflage/hlwn_2025_01/Name": "In the Net"
+"#vehicle_customization:camouflage/anim_hlwn_2025_01/Name": "In a Cocoon"
+"#vehicle_customization:camouflage/skin_ch61_dzt_159/Name": "Nebula"
+"#vehicle_customization:camouflage/skin_f126_char_lourd_ap58/Name": "Oracle"
+"#vehicle_customization:camouflage/atlas_gravity/Name": "Force of Gravity"
+"#vehicle_customization:camouflage/atlas_vyzhivanie/Name": "Survival Instinct"
+"#vehicle_customization:camouflage/atlas_kosmovozrozhdenie/Name": "Cosmic
+Acceleration" "#vehicle_customization:camouflage/skin_g167_tiger_maus/Name":
+"Screamer" "#vehicle_customization:camouflage/sd1_peeling_paint_summer/Name":
+"Coniferous Wilds"
+"#vehicle_customization:camouflage/sd1_peeling_paint_desert/Name": "Bedouin
+Path" "#vehicle_customization:camouflage/sd1_peeling_paint_winter/Name": "Long
+Winter" "#vehicle_customization:camouflage/sd1_reactive_armour_slate/Name":
+"Black Metal"
+"#vehicle_customization:camouflage/sd1_reactive_armour_desert/Name": "Scarab
+Shell" "#vehicle_customization:camouflage/sd1_reactive_armour_winter/Name":
+"Steel Honeycomb"
+"#vehicle_customization:camouflage/sd1_magma_cracks_toxic/Name": "Toxic Rivers"
+"#vehicle_customization:camouflage/anim_sd1_magma_cracks_fiery/Name": "Volcano
+Wrath" "#vehicle_customization:camouflage/sd1_magma_cracks_energetic/Name":
+"Frozen Pulsar"
+"#vehicle_customization:camouflage/sd1_rusty_wasteland_green/Name": "Bold
+Challenge"
+"#vehicle_customization:camouflage/anim_sd1_rusty_wasteland_fire/Name": "Sparks
+of Madness" "#vehicle_customization:camouflage/sd1_rusty_wasteland_purple/Name":
+"Wasteland Hero" "#vehicle_customization:camouflage/sd1_cryo_shell/Name": "Ice
+Shackles" "#vehicle_customization:camouflage/sd1_rough_metal/Name": "Old Steel"
+"#vehicle_customization:camouflage/skin_pl35_cs_57_sokol/Name": "Clear"
+"#vehicle_customization:camouflage/skin_frankenstank_mk2/Name": "Renowned"
+"#vehicle_customization:camouflage/skin_f119_projet_murat/Name": "Gunner"
+"#vehicle_customization:camouflage/skin_pl05_50tp_tyszkiewicza/Name": "Wizard"
+"#vehicle_customization:camouflage/skin_ms-11/Name": "Polar Explorer"
+"#vehicle_customization:camouflage/battlepass_2025_dec_01/Name": "North Express"
+"#vehicle_customization:camouflage/battlepass_2025_dec_03/Name": "Winter Dream"
+"#vehicle_customization:camouflage/battlepass_2025_dec_02/Name": "Polar Night"
+"#vehicle_customization:camouflage/anim_topup_01_2025/Name": "Emerald Blizzard"
+"#vehicle_customization:camouflage/anim_topup_02_2025/Name": "Azure Snowstorm"
+"#vehicle_customization:camouflage/battlepass_2026_jan_03/Name": "Quiet as a
+Mouse" "#vehicle_customization:camouflage/battlepass_2026_jan_02/Name": "Plaid
+Blanket" "#vehicle_customization:camouflage/battlepass_2026_jan_01/Name": "Couch
+Gravity" "#vehicle_customization:camouflage/skin_t49d/Name": "Coordinator"
+"#vehicle_customization:camouflage/remover/Name": "Duck Pull"
+"#vehicle_customization:camouflage/skin_su-101/Name": "Taut"
+"#vehicle_customization:camouflage/battlepass_2026_feb_01/Name": "Fight
+Yourself" "#vehicle_customization:camouflage/battlepass_2026_feb_02/Name":
+"Biceps-Triceps"
+"#vehicle_customization:camouflage/battlepass_2026_feb_03/Name": "On Steroids"
+"#vehicle_customization:camouflage/skin_t54e1/Name": "Cybertechnology"
+"#vehicle_customization:camouflage/battlepass_2026_march_01/Name": "Apologetic"
+"#vehicle_customization:camouflage/battlepass_2026_march_02/Name": "Hostess"
+"#vehicle_customization:camouflage/battlepass_2026_march_03/Name": "Buzzing"
+"#vehicle_customization:camouflage/skin_g181_stug_maus/Name": "Kotana"
+"#vehicle_customization:camouflage/skin_r165_object_703_ii/Name": "Outpost"
+"#vehicle_customization:camouflage/anim_rating_sprint_26_3/Name": "Factor X"
+"#vehicle_customization:camouflage/skin_r171_is_3_ii/Name": "Quantum"
+"#vehicle_customization:camouflage/skin_r170_is_2_ii/Name": "Photon"
+"#vehicle_customization:camouflage/skin_r169_st_ii/Name": "Boson"
+"#vehicle_customization:camouflage/gold_fund_2026/Name": "Gold Alloy"
+"#vehicle_customization:camouflage/stlk_2026/Name": "Burning Jelly"
+"#vehicle_customization:camouflage/battlepass_2026_april_03/Name": "Ancient
+Relic" "#vehicle_customization:camouflage/battlepass_2026_april_02/Name": "Alien
+Spine" "#vehicle_customization:camouflage/battlepass_2026_april_01/Name":
+"Living Labyrinth" "#vehicle_customization:camouflage/skin2_pzvi_tiger_p/Name":
+"Organicus" "#vehicle_customization:camouflage/skin_f115_lorraine_50t/Name":
+"Extraterrestrial" "#vehicle_customization:camouflage/camo_attempts_2026/Name":
+"Alien Guest" "#vehicle_customization:camouflage/atlas_wasteland_madness/Name":
+"Wild Racer" "#vehicle_customization:camouflage/atlas_gladiator_shield/Name":
+"Destined for Glory" "#vehicle_customization:camouflage/event_map_26_6/Name":
+"Spark of Wisdom" "#vehicle_customization:camouflage/anim_event_map_26_6/Name":
+"Ethereal Flow" "#vehicle_customization:camouflage/skin_r177_isu_152k/Name":
+"Elemental" "#vehicle_customization:camouflage/skin_t29/Name": "Reborn"
+"#vehicle_customization:camouflage/battlepass_2026_june_01/Name": "Rushing
+Rivers" "#vehicle_customization:camouflage/battlepass_2026_june_02/Name":
+"Mighty Winds" "#vehicle_customization:camouflage/battlepass_2026_june_03/Name":
+"Boiling Lava" "#vehicle_customization:camouflage/anim_vkfest_26_6_01/Name":
+"Smelt Run" "#vehicle_customization:camouflage/anim_vkfest_26_6_02/Name":
+"Patriarch Star"
+"#vehicle_customization:camouflage/skin_oth69_lv915_skin_01/Name": "Punishing"
+"#vehicle_customization:camouflage/set_gun_mosquito/Name": "Annoying"
+"#vehicle_customization:camouflage/set_school_bot/Name": "Nerd Bot"
+"#vehicle_customization:camouflage/set_dinosaur/Name": "Reptilord"
+"#vehicle_customization:camouflage/set_terrarium/Name": "Experiment #3"
+"#vehicle_customization:camouflage/set_ice_gun/Name": "Frost Shooter"
+"#vehicle_customization:camouflage/set_laser_mouse/Name": "Smash-Mouse"
+"#vehicle_customization:camouflage/set_heart/Name": "Wild Heart"
+"#vehicle_customization:camouflage/set_cyber_robot/Name": "Zhuzhik"
+"#vehicle_customization:camouflage/set_frog/Name": "Elemental Guardian"
+"#achievements:commonTwister_descr": "Award dedicated to the game season."
+"#achievements:goldClanRibbon": "Gold Season Ribbon"
+"#achievements:goldClanRibbonSEA_condition": "• Class III Ribbon.\n• Awarded to
+clan players for reaching the Hall of Fame at the end of the season."
+"#achievements:platinumClanRibbon": "Platinum Season Ribbon"
+"#achievements:platinumClanRibbonSEA_condition": "• Class II Ribbon.\n• Awarded
+to clan players for reaching the Hall of Fame at the end of the season."
+"#achievements:diamondClanRibbon": "Diamond Season Ribbon"
+"#achievements:diamondClanRibbon_condition": "• Class I Ribbon.\n• Awarded to
+clan players for reaching the Hall of Fame at the end of the season."
+"#achievements:medalJulyMarathon2025": "Warriors of the Server"
+"#achievements:medalJulyMarathon2025_descr": "• Unique reward for participating
+in the global event "On a Summer Night"\n• Awarded to players who played at
+least 25 battles" "#achievements:lizardsMustDieMedal": "Grandpa Vedoved"
+"#achievements:lizardsMustDieMedal_descr": "Awarded to players who collected all
+unique customization from the "Blitzislav vs. Lizard" episode, the "Blitz Valor"
+draw, and the "Crush the Scales!" quest" "#account:Completion/Congrats/Text":
+"You received" "#achievements:medalSurvey": "Voice of the Community"
+"#achievements:medalSurvey_descr": "For fully completing special in-game
+surveys" "#battle_results:Reason_MaxScore_Win_for_BossMode": "Allies depleted
+all enemy points" "#battle_results:Reason_BiggerScore_Win_for_BossMode": "Allies
+had more points at the end of the battle"
+"#battle_results:Reason_MaxScore_Lose_for_BossMode": "Enemies depleted all ally
+points" "#battle_results:Reason_BiggerScore_Lose_for_BossMode": "Enemies had
+more points at the end of the battle"
+"#battle:Message/Equipment/welding_machine_ability_no_charges": "Regeneration
+unavailable: collect more bonuses"
+"#battle:Message/Equipment/welding_machine_ability_in_use": "Regeneration
+already in use" "#battle:Message/Equipment/welding_machine_ability_in_cooldown":
+"Regeneration is on cooldown"
+"#battle:Message/Equipment/welding_machine_ability_full_health": "Regeneration
+not required: HP is full" "battle_royale/bonusCatching/provisionCatching":
+"Capturing Supplies" "battle_royale/bonusCatching/provisionCaptured": "Supplies
+captured" "#battle:Message/BattleRoyale/airdropSpawnAnnouncment": "New Supply
+Drop will be available soon" "#artefacts:piercingPowerBoostBR/name": "Increases
+armor penetration for all shell types" "#artefacts:rateOfFireBoostBRL1/name":
+"Speeds up gun reloading" "#artefacts:dispersionOnMovementBoostBR/name":
+"Improves firing accuracy on the move" "#artefacts:aimingTimeBoostBR/name":
+"Speeds up gun aiming" "#artefacts:accelerationSpeedBoostBR/name": "Increases
+engine power" "#artefacts:maxSpeedBoostBR/name": "Increases maximum speed"
+"provisions/spottingRangeBoostBR/Name": "Increases view range"
+"provisions/invisibilityBoostBR/Name": "Improves overall tank concealment"
+"#artefacts:maximumStrengthBoostBRL1/name": "Increases maximum tank durability"
+"#artefacts:heStrengthBoostBR/name": "Increases resistance to HE shell damage"
+"#artefacts:weldingMachineInstant/name": "Regeneration immediately restores part
+of durability" "#artefacts:weldingMachineImproved/name": "Regeneration
+accumulates and charges faster" "#artefacts:eqtActivationTimeBoostBR/name":
+"Increases equipment duration" "#artefacts:eqtReloadTimeBoostBR/name": "Speeds
+up equipment cooldown" "#artefacts:hullRotationSpeedBoostBR/name": "Increases
+hull traverse speed" "#artefacts:turretRotationSpeedBoostBR/name": "Increases
+turret traverse speed" "#artefacts:maximumStrengthBoostBRL2/name": "Increases
+maximum tank durability" "#artefacts:damageReductionBoostBR/name": "Increases
+resistance to damage from all shells" "#artefacts:damageBoostBR/name":
+"Increases damage with all shell types" "#artefacts:rateOfFireBoostBRL2/name":
+"Speeds up gun reloading" "#settings:Controls/RadialMenu/Title": "BOOST
+SELECTION" "SUMMER2020/StepTree/ProgressStage/Comment": ""
+"SUMMER2020/StepTree/BuyStage/Comment": "" "2025-BTS/header": "Tanking Grade"
+"2025-BTS/ProgressStage/Header": "Let's check your skills!"
+"2025-BTS/ProgressStage/Hint": "Deal damage in Tier IV–X tanks, collect  Pencil
+Cases, and claim rewards" "2025-BTS/DoneScreen/Header": "Grade passed!"
+"2025-BTS/DoneScreen/Hint": "Congratulations, A-student!"
+"2025-BTS/currency/win/terms": "Play Tier IV–X tanks in regular and rating
+battles and get 1 Pencil Case for every 100 units of damage dealt"
+"2025-TOP-UP-AUGUST/header": "Who's Cooler?"
+"2025-TOP-UP-AUGUST/ProgressStage/Hint": "Earn  Soul Medals for Mastery
+Badges,\nand look for  Funny Megaphones in shop bundles"
+"2025-TOP-UP-AUGUST/currency/win/terms": "Play Tier IV–X tanks in regular and
+rating battles and get 1 Soul Medal for every Mastery Badge Class 3 and higher"
+"2025-TOP-UP-AUGUST/currency/shop/terms": "Look for Funny Megaphones in gold
+bundles in the shop" "2025-SRR11/ProgressStage/Hint": "Get  Chip Cards for
+Mastery Badges and by exchanging resources.\nVictories in Tier IV–X tanks will
+bring  Badges,\nand victories with a Wealth Booster — also "
+"2025-SRR11/currency/win/terms": "• Play Tier IV–X tanks in regular and rating
+battles and get 1 Badge per victory\n• Badges are awarded only for winning
+battles where you earn enough base combat XP without modifiers:%(drop)"
+"2025-CLAN-R/header": "Clan March" "2025-CLAN-R/ProgressStage/Header": "Forward
+for rewards!" "2025-CLAN-R/ProgressStage/Hint": "Play in a clan platoon with
+Tier IV–X tanks\nand get  Compasses for damage dealt"
+"2025-CLAN-R/currency/win/terms": "Play in a clan platoon with Tier IV–X tanks
+in regular battles and get 1 Compass for every 100 units of damage dealt"
+"2025-TBB/header": "TaData: Edges of Reality" "2025-TBB/ProgressStage/Header":
+"Do not stray from the path!" "2025-TBB/ProgressStage/Hint": "Play Tier IV–X
+tanks and get  Edge for every battle" "2025-TBB/Done/Header": "It was
+EDGEnificent!" "2025-TBB/Done/Hint": "Secrets of reality did not knock you off
+your path!" "2025-TBB/currency/terms": "• Play Tier IV–X tanks and get 1 Edge
+for every battle\n• To receive an Edge, earn enough base combat XP without
+modifiers:%(drop)" "2025-BLACK/header": "In the Spider's Lair"
+"2025-BLACK/ProgressStage/Hint": "Get  Spider Marks for shop purchases and
+exchange them for rewards!" "2025-BLACK/currency/terms": "Purchase bundles from
+the gold and offers sections in the shop" "2025-TANKOPOLY-HALLOWEEN/header":
+"Tankopoly. The Upside Down of Tanks Blitz"
+"2025-TANKOPOLY-HALLOWEEN/ProgressStage/Header": "Route recalculated!"
+"2025-TANKOPOLY-HALLOWEEN/ProgressStage/Hint": "Get  Dice for destroying enemy
+tanks.\nRoll , move across the game board, and claim rewards.\nComplete 25 laps
+— and  will be yours!" "2025-TANKOPOLY-HALLOWEEN/Quest/Description": "Get 1 
+for every 5 enemy tanks destroyed" "2025-TANKOPOLY-HALLOWEEN/Quest/Progress":
+"Tanks destroyed:" "2025-TANKOPOLY-HALLOWEEN/Button/BuyCube": "Buy more Dice"
+"2025-TANKOPOLY-HALLOWEEN/Button/ThrowCube": "Roll Dice"
+"2025-TANKOPOLY-HALLOWEEN/Button/UpgradeCube": "Upgrade Dice"
+"2025-TANKOPOLY-HALLOWEEN/DicePurchaseScreen/Content/Header": "Need more Dice?"
+"2025-TANKOPOLY-HALLOWEEN/DicePurchaseScreen/Content/Hint": "No problem — they
+can be purchased for gold!" "2025-TANKOPOLY-HALLOWEEN/DiceCard/Purchased":
+"Purchased" "2025-TANKOPOLY-HALLOWEEN/DicePurchase/Header/One": "One Die"
+"2025-TANKOPOLY-HALLOWEEN/DicePurchase/Hint/One": "×1 Die"
+"2025-TANKOPOLY-HALLOWEEN/DicePurchase/Header/Small": "Small Bundle"
+"2025-TANKOPOLY-HALLOWEEN/DicePurchase/Hint/Small": "×5 Dice"
+"2025-TANKOPOLY-HALLOWEEN/DicePurchase/Header/Middle": "Medium Bundle"
+"2025-TANKOPOLY-HALLOWEEN/DicePurchase/Hint/Middle": "×10 Dice"
+"2025-TANKOPOLY-HALLOWEEN/DicePurchase/Header/Big": "Large Bundle"
+"2025-TANKOPOLY-HALLOWEEN/DicePurchase/Hint/Big": "×20 Dice"
+"2025-TANKOPOLY-HALLOWEEN/DiceUpgradeScreen/Content/Header": "Upgrade Dice"
+"2025-TANKOPOLY-HALLOWEEN/DiceUpgradeScreen/Content/Hint": "And complete each
+lap faster!" "2025-TANKOPOLY-HALLOWEEN/DiceUpgrade/Header/Backspin": "Backspin"
+"2025-TANKOPOLY-HALLOWEEN/DiceUpgrade/Hint/Backspin": "Dice never rolls "1" and
+"2"" "2025-TANKOPOLY-HALLOWEEN/DiceUpgrade/Header/Lucky": "Lucky Throw"
+"2025-TANKOPOLY-HALLOWEEN/DiceUpgrade/Hint/Lucky": "20% chance that the thrown
+die won't be consumed" "2025-TANKOPOLY-HALLOWEEN/DiceUpgrade/Header/D10": "D10
+Die" "2025-TANKOPOLY-HALLOWEEN/DiceUpgrade/Hint/D10": "Replaces 6-sided die with
+a 10-sided die" "2025-TANKOPOLY-HALLOWEEN/DiceUpgrade/Header/Couple": "Double"
+"2025-TANKOPOLY-HALLOWEEN/DiceUpgrade/Hint/Couple": "Every time you roll a
+die, 1 additional free die will be rolled automatically"
+"2025-TANKOPOLY-HALLOWEEN/Reward/Here": "You are here"
+"2025-TANKOPOLY-HALLOWEEN/MainReward/CircleDone": "Laps completed:"
+"2025-TANKOPOLY-HALLOWEEN/currency/win/terms": "Play Tier IV−X tanks and get 1
+Die for every 5 enemy tanks destroyed.Buy Dice bundles for gold:\n• 1 Die — 550
+gold\n• 5 Dice — 2550 gold\n• 10 Dice — 5000 gold\n• 20 Dice — 9000 gold"
+"2025-TANKOPOLY-HALLOWEEN/DicePurchaseScreen/Header": "Buy Dice"
+"2025-TANKOPOLY-HALLOWEEN/DiceUpgradeScreen/Header": "Dice Upgrades"
+"2026-NY/ProgressStage/Header": "See what's inside!" "2026-NY/currency/terms":
+"• Play Tier IV–X tanks and get 3 Flashlights for every victory in regular,
+rating, and tournament battles, as well as in Mad Games mode. Every victory in
+Gladiator mode will bring you a whole 7 Flashlights!\n• 2 more Flashlights drop
+every time you open a Cherished Box.\n• To receive Flashlights on victory, earn
+enough base combat XP without modifiers:%(drop)" "2026-NY/Content/NextLevel":
+"To next level:" "2026-NY/Content/FreeChest": "TAKE THE BOX!"
+"2026-NY/Content/ForFreeChest": "TILL FREE BOX:" "2026-NY/Content/CostFree":
+"Free" "2026-NY/Footer/Hint/Roll": "To shake the Snow Globe, first obtain its
+Model from the event stage or Cherished and Crafted boxes"
+"2026-NY-LONG/header": "Time of Miracles" "2026-NY-LONG/ProgressStage/Header":
+"Creating a festive atmosphere!" "2026-NY-LONG/ProgressStage/Hint": "Get
+ornaments in various game activities,\ndecorate the tree with them, increase the
+holiday level, and take all the gifts!"
+"2026-NY-LONG/HolidayLevel/MainScreen/Header": "Holiday Level:"
+"2026-NY-LONG/Bonus/Header": "New Year Bonus:"
+"2026-NY-LONG/Bonus/MainScreen/Hint": "Hang ornaments on the tree to increase
+the bonus" "2026-NY-LONG/Button/Dress": "Decorate Tree"
+"2026-NY-LONG/Button/TreasuresMachine": "Magic Carriage"
+"2026-NY-LONG/HolidayLevel/DecorationScreen/Current": "Current Holiday Level:"
+"2026-NY-LONG/HolidayLevel/DecorationScreen/Max": "Maximum Reached Holiday
+Level:" "2026-NY-LONG/Bonus/DecorationScreen/Hint": "Your bonus does not change
+when you remove ornaments from the tree" "2026-NY-LONG/Button/TakeOff": "Remove
+all ornaments" "2026-NY-LONG/Button/Join": "Exchange ornaments"
+"2026-NY-LONG/DnD/Description": "Ornaments on the tree are not available for
+exchange" "2026-NY-LONG/DnD/Tip": "To hang ornaments, drag them into the slots
+on the tree" "2026-NY-LONG/DnD/JoinButtonTip": "To exchange ornaments, select a
+suitable one in the right panel" "2026-NY-LONG/Dialog/Exchange": "Exchange
+<text_white_bold>%(nameBallOne) (х%(valueOne))</text_white_bold> for
+<text_white_bold>%(nameBallTwo) (х%(valueTwo))</text_white_bold>?"
+"2026-NY-LONG/Bonus/Hint/Max": "Maximum level"
+"2026-NY-LONG/TreasuresMachine/Title": "Magic Carriage"
+"2026-NY-LONG/TreasuresMachine/Header": "Open the door to a fairy tale!"
+"2026-NY-LONG/TreasuresMachine/Hint": "Collect Gingerbread Snowflakes to
+disenchant the Magic Carriage and claim rewards"
+"2026-NY-LONG/TreasuresMachine/Decoration": "Ornaments on the tree cannot be
+exchanged for Gingerbread Snowflakes" "2026-NY-LONG/TreasuresMachine/Button":
+"Disenchant" "2026-NY-LONG/TreasuresMachine/Tip": "Drag the ornaments you want
+to exchange for Gingerbread Snowflakes into the slot" "2026-TOP-UP-NY/header":
+"On Chill" "2026-TOP-UP-NY/ProgressStage/Hint": "Earn XP in battles with Tier
+IV–X tanks and get  Mittens,\nand look for  Sandwiches in shop bundles"
+"2026-TOP-UP-NY/currency/win/terms": "Play Tier IV–X tanks and get 1 Mitten for
+every 100 units of base combat XP earned in battle"
+"2026-TOP-UP-NY/currency/shop/terms": "Look for Sandwiches in gold bundles in
+the shop" "2026-TOP-UP-MARCH/header": "Match Hostess"
+"2026-TOP-UP-MARCH/ProgressStage/Hint": "Get  Meow-gadgets for shop purchases
+and exchange them for rewards!" "2026-TOP-UP-MARCH/currency/terms": "Purchase
+bundles from the gold and offers sections in the shop" "2026-RS/header": "Rating
+Sprint" "2026-RS/ProgressStage/Hint": "Fight in rating battles and get  Flash
+Drives.\nThe higher the League, the more  you will receive!"
+"2026-RS/CurrentLeaguePrxText/Bronze": "10  PER BATTLE"
+"2026-RS/CurrentLeagueWinText/Bronze": "+1  PER VICTORY"
+"2026-RS/NextLeaguePrxText/Bronze": "<blue_riptide>SILVER:</blue_riptide> 11 
+per battle" "2026-RS/CurrentLeaguePrxText/Silver": "11  PER BATTLE"
+"2026-RS/CurrentLeagueWinText/Silver": "+2  PER VICTORY"
+"2026-RS/NextLeaguePrxText/Silver":
+"<yellow_lightning>GOLD:</yellow_lightning> 13  per battle"
+"2026-RS/CurrentLeaguePrxText/Gold": "13  PER BATTLE"
+"2026-RS/CurrentLeagueWinText/Gold": "+3  PER VICTORY"
+"2026-RS/NextLeaguePrxText/Gold":
+"<orange_orange_peel>PLATINUM:</orange_orange_peel> 16  per battle"
+"2026-RS/CurrentLeaguePrxText/Platinum": "16  PER BATTLE"
+"2026-RS/CurrentLeagueWinText/Platinum": "+6  PER VICTORY"
+"2026-RS/NextLeaguePrxText/Platinum": "<purple_old>DIAMOND:</purple_old> 20  per
+battle" "2026-RS/CurrentLeaguePrxText/Diamond": "20  PER BATTLE"
+"2026-RS/CurrentLeagueWinText/Diamond": "+10  PER VICTORY"
+"2026-RS/Subtitle/Calibration": "Number of  depends on your rating battle
+performance!" "2026-RS/Subtitle/League": "More  in the next League:"
+"2026-RS/currency/terms": "Receive Flash Drives for each rating battle in Tier
+VII–X tanks:\n\n   • Bronze League — 10 Flash Drives per battle and 1 for
+victory;\n   • Silver League — 11 Flash Drives per battle and 2 for
+victory;\n   • Gold League — 13 Flash Drives per battle and 3 for
+victory;\n   • Platinum League — 16 Flash Drives per battle and 6 for
+victory;\n   • Diamond League — 20 Flash Drives per battle and 10 for
+victory.\n\nFlash Drives are awarded only for battles where you earn at
+least 200 base combat XP." "2026-SRR12/header": "Gold Fund"
+"2026-SRR12/ProgressStage/Hint": "Get  Chip Cards for Mastery Badges and by
+exchanging resources.\nVictories in Tier IV–X tanks will bring  Badges"
+"2026-SRR12/currency/win/terms": "• Play Tier IV–X tanks in regular and rating
+battles and get 1 Badge per victory\n• Badges are awarded only for winning
+battles where you earn enough base combat XP without modifiers:%(drop)"
+"2026-SRR12/currency/buy/terms": "• Exchange resources for Chip Cards\n• Get
+Chip Cards for Mastery Badges:\n\n• Ace — 200\n• 1st Class — 100\n• 2nd Class
+— 50\n• 3rd Class — 25" "2026-TRIALS-DC/header": "Contact!"
+"2026-TRIALS-DC/ProgressStage/Header": "Prove yourself!"
+"2026-TRIALS-DC/ProgressStage/Hint": "Select a task and activate an attempt
+equal to 3 battles.\nSuccessfully complete the task and get  Unidentified
+Objects" "2026-TRIALS-DC/currency/terms": "Select tasks, activate attempts,
+complete them successfully in Tier IV−X tanks in regular and rating battles and
+get Unidentified Objects:\n• 1 Unidentified Object — for every 100 units of
+damage dealt\n• 3 Unidentified Objects — for every 100 units of base combat
+XP\n• 15 Unidentified Objects — for every enemy tank destroyed\n• 35
+Unidentified Objects — for every victory\n• 45 Unidentified Objects — for every
+Mastery Badge Class 3 and higher" "2026-TRIALS-DC/AvailableAttempts": "Available
+free attempts:" "2026-TRIALS-DC/AttemptActivated": "Attempt activated"
+"2026-TRIALS-DC/AttemptsWillUpdated": "New free attempts in:"
+"2026-TRIALS-DC/AfterExchange": "You will receive:"
+"2026-TRIALS-DC/AfterExchangeLastAttempt": "You received:"
+"2026-TRIALS-DC/ProgressBattle": "Battles played:"
+"2026-TRIALS-DC/CurrentAttempt": "Current attempt"
+"Trials/QuestMainScreen/Kills": "Tanks destroyed:"
+"Trials/QuestMainScreen/Damage": "Damage dealt:" "Trials/QuestMainScreen/Wins":
+"Victories earned:" "Trials/QuestMainScreen/Medals": "Mastery Badges received:"
+"Trials/QuestMainScreen/Experience": "XP earned:" "2026-TRIALS-DC/LastAttempt":
+"Previous attempt" "2026-TRIALS-DC/AttemptsStillAvailable": "Attempt buyback
+available for:" "2026-TRIALS-DC/AttemptsNotAvailable": "Attempt buyback
+unavailable" "Trails/AttemptPopup": "The event is ending soon. Attempts can no
+longer be purchased" "Trials/Modal/Title": "Attempt Activation"
+"Trials/Modal/Description": "Choose a task and show the best result for all
+battles in the current attempt" "Trials/QuestModal/Kills": "Destroy tanks"
+"Trials/QuestModal/Damage": "Deal damage" "Trials/QuestModal/Wins": "Win
+battles" "Trials/QuestModal/Medals": "Receive Mastery Badges"
+"Trials/QuestModal/Experience": "Earn XP" "Trials/Modal/Warning": "Note: all
+free attempts are used. Wait for the next set to be credited"
+"2026-TRIALS-DC/DoneScreen/Header": "Congratulations!"
+"2026-TRIALS-DC/DoneScreen/Hint": "All rewards are yours!"
+"2026-BattleMap-VD/header": "Energy Awakening"
+"2026-BattleMap-VD/ProgressStage/Header": "Unlock the secret source of power!"
+"2026-BattleMap-VD/ProgressStage/Hint": "Choose a square on the map, unlock it
+with an  Ancient Key and see what reward you get.\nFind the  Secret Seal to
+refresh the map and get closer to the main rewards"
+"2026-BattleMap-VD/MainReward/Label": "Seals found:"
+"2026-BattleMap-VD/Quest/Label": "Damage dealt:"
+"2026-BattleMap-VD/Quest/Reward": "Ancient Key ×1"
+"2026-BattleMap-VD/Button/Shoot": "Open" "2026-BattleMap-VD/Button/Activate":
+"Activate" "2026-BattleMap-VD/Button/RadarActivated": "Activated"
+"2026-BattleMap-VD/AmmoPopup": "To use an Ancient Key, select a square on the
+map you want to open" "2026-BattleMap-VD/RadarPopup": "Activate the Fire Orb to
+see all hidden rewards and find the Secret Seal faster"
+"2026-BattleMap-VD/Button/Purchase": "Buy Keys"
+"2026-BattleMap-VD/ShotPurchase/Header/One": "One unlock"
+"2026-BattleMap-VD/ShotPurchase/Hint/One": "×1 Ancient Key"
+"2026-BattleMap-VD/ShotPurchase/Header/Small": "Key ring"
+"2026-BattleMap-VD/ShotPurchase/Hint/Small": "×5 Ancient Keys"
+"2026-BattleMap-VD/ShotPurchase/Header/Middle": "Key pouch"
+"2026-BattleMap-VD/ShotPurchase/Hint/Middle": "×15 Ancient Keys"
+"2026-BattleMap-VD/ShotPurchase/Header/Big": "Box of Antiquities"
+"2026-BattleMap-VD/ShotPurchase/Hint/Big": "×45 Ancient Keys"
+"2026-BattleMap-VD/currency/win/terms": "Play Tier IV−X tanks and get 1 Ancient
+Key for every 2,200 units of damage dealtBuy Ancient Key bundles for gold:\n• 1
+Ancient Key — 300 gold\n• 5 Ancient Keys — 1,400 gold\n• 15 Ancient Keys — 4,100
+gold\n• 45 Ancient Keys — 12,000 gold" "Story/CompositeStep/NextReward/Stuff":
+"%(value)/%(maximum) Next reward: camouflage" "#common:Button/BuyTank": "BUY
+TANK" "#common:Button/BuyOutTank": "RESTORE TANK"
+"storage/Items/CamoUnlock/ModalDescription": "Use item and unlock "%(camoName)"
+camouflage for %(vehicleName)?" "#common:DialogButton/Understood": "UNDERSTOOD"
+"storage/Items/GiftOpen": "Open gift?" "storage/Items/ItemUnlock/Confirmation":
+"Use item?" "storage/Items/CamoCertificate/Confirmation/CamoUnlocked": "This
+camouflage is already unlocked. Use certificate anyway?\nYou will be credited:
+%(compensation)" "TankMechanics/GunCooling": "Gun Cooling"
+"TankMechanics/GunCoolingDescription": "• If you wait a bit after the gun
+reloads, you can increase the damage of the next shot and speed up the reload
+after it.\n• The gun cooling process is shown on a special scale on both sides
+of the reticle.\n• To get the maximum bonus, you must wait for the gun to cool
+down completely." "TankMechanics/TwinGuns": "Twin Guns"
+"TankMechanics/TwinGunsDescription": "• The guns have two firing modes (Single
+and Doublet) which are switched by pressing a button.\n• In Single mode, the
+guns fire alternately and their reload happens independently of each other.\n•
+For a Doublet shot, reloading must be completed for both guns.\n• Reticle
+markers are tied to each gun, changing their position depending on the
+distance." "cant_shoot_all_guns_reload": "Guns are reloading..."
+"cant_shoot_all_guns_disabled": "Firing impossible: guns are blocked"
+"all_guns_destroyed": "Firing impossible: guns are knocked out"
+"#battle:Message/Consumables/doubleBarrelGunSwitcher_in_use": "Twin guns
+mechanic already in use"
+"#battle:Message/Consumables/doubleBarrelGunSwitcher_in_cooldown": "Twin guns
+mechanic is on cooldown"
+"#battle:Message/Consumables/doubleBarrelGunSwitcher_not_enough_shells": "Not
+enough shells for Doublet shot" "BattlePass/Season_25_07/Header": "Episode
+"Adventure Calls!"" "BattlePass/OfferScreen/PremiumPass/bp25_07/Description":
+"More rewards:• Legendary camouflage for    M46 Patton• Gold Vault• Special
+Profile BackgroundSimultaneous completion of missions for all unlocked
+weeksMissions to speed up progress" "BattlePass/Season_25_08/Header": "Episode
+"Keep Up With Summer"" "BattlePass/OfferScreen/PremiumPass/bp25_08/Description":
+"More rewards:• Legendary camouflage for    VK 45.02 (P) Ausf. A• Gold Vault•
+Special Profile BackgroundSimultaneous completion of missions for all unlocked
+weeksMissions to speed up progress" "BattlePass/Season_25_09/Header": "Episode
+"In the Fan Zone"" "BattlePass/OfferScreen/PremiumPass/bp25_09/Description":
+"More rewards:• Legendary camouflage for    Emil I• Gold Vault• Special Profile
+BackgroundSimultaneous completion of missions for all unlocked weeksMissions to
+speed up progress" "BattlePass/Season_25_10/Header": "Episode "Deep Dive into
+Tanks Blitz"" "BattlePass/OfferScreen/PremiumPass/bp25_10/Description": "More
+rewards:• Legendary camouflage for    Vickers Cruiser• Gold Vault• Special
+Profile BackgroundSimultaneous completion of missions for all unlocked
+weeksMissions to speed up progress" "BattlePass/Season_25_11/Header": "Episode
+"Blitzislav vs. Lizard""
+"BattlePass/OfferScreen/PremiumPass/bp25_11/Description": "More rewards:•
+Legendary camouflage for    M-III-Yoh• Gold Vault• Special Profile
+BackgroundSimultaneous completion of missions for all unlocked weeksMissions to
+speed up progress" "BattlePass/Season_25_12/Header": "Episode "When Christmas
+Trees Were Big"" "BattlePass/OfferScreen/PremiumPass/bp25_12/Description": "More
+rewards:• Legendary camouflage for    50TP Tyszkiewicza• Gold Vault• Special
+Profile BackgroundSimultaneous completion of missions for all unlocked
+weeksMissions to speed up progress" "BattlePass/Season_26_01/Header": "Episode
+"Hibernation"" "BattlePass/OfferScreen/PremiumPass/bp26_01/Description": "More
+rewards:• Legendary camouflage for    Centurion Mk. I• Gold Vault• Special
+Profile BackgroundSimultaneous completion of missions for all unlocked
+weeksMissions to speed up progress" "BattlePass/Season_26_02/Header": "Episode
+"Need to Bulk Up"" "BattlePass/Season_26_02/Button": "Need to bulk up"
+"BattlePass/OfferScreen/PremiumPass/bp26_02/Description": "More rewards:•
+Legendary camouflage for    SU-101• Gold Vault• Special Profile
+BackgroundSimultaneous completion of missions for all unlocked weeksMissions to
+speed up progress" "BattlePass/Season_26_03/Header": "Episode "Galya, Cancel!""
+"BattlePass/OfferScreen/PremiumPass/bp26_03/Description": "More rewards:•
+Legendary camouflage for    T54E1• Gold Vault• Special Profile
+BackgroundSimultaneous completion of missions for all unlocked weeksMissions to
+speed up progress" "BattlePass/Season_26_03/Button": "Galya, cancel!"
+"BattlePass/Season_26_04/Header": "Episode "Breath of Space""
+"BattlePass/Season_26_04/Button": "Breath of space"
+"BattlePass/OfferScreen/PremiumPass/bp26_04/Description": "More rewards:•
+Legendary camouflage for    Tiger (P)• Gold Vault• Special Profile
+BackgroundSimultaneous completion of missions for all unlocked weeksMissions to
+speed up progress" "BattlePass/Season_26_06/Header": "Episode "Hero's Path""
+"BattlePass/Season_26_06/Button": "Hero's path"
+"BattlePass/OfferScreen/PremiumPass/bp26_06/Description": "More rewards:•
+Legendary camouflage for    T29• Gold Vault• Special Profile
+BackgroundSimultaneous completion of missions for all unlocked weeksMissions to
+speed up progress" "Shop/Auction/TimeRemaining": "Sale ends in:"
+"Shop/Auction/NextPrice": "Price" "Shop/Auction/After": "in:"
+"tank_descr_param_gunDupletReloadTime": "Reload time for Doublet shot,
+<text_units>%(units)</text_units>" "hangar/sidebar/news": "News"
+"hangar/sidebar/tanks": "Tanks" "hangar/sidebar/taskJournal": "Tasks"
+"hangar/sidebar/storage": "Storage" "hangar/sidebar/chat": "Chat"
+"hangar/sidebar/clans": "Clans" "hangar/sidebar/tournaments": "Tournaments"
+"hangar/sidebar/community": "Community" "hangar/sidebar/settings": "Settings"
+"#community:header": "Community" "#community:title": "Join us on social media!"
+"#community:description": "Keep up with Tanks Blitz news\nand discuss them with
+other players" "hangar/Footer/TankFilter/ClearFilter": "Clear filter"
+"hangar/TankOffer/Contents": "Contents" "hangar/TopBar/Solo": "Solo Game"
+"hangar/TopBar/PlaySquad": "Create Platoon" "hangar/TopBar/Squad": "Platoon
+Game" "hangar/TopBar/SetUpSquad": "Modify Platoon"
+"hangar/TopBar/ChangeBattleType": "Change Mode" "hangar/TopBar/WaitingPlayers":
+"Waiting for players..." "hangar/TopBar/SearchBattle": "Searching for battle..."
+"hangar/TopBar/TanksQueue": "Tanks in queue"
+"hangar/PlatoonPanel/NoOnlineFriends": "No friends online"
+"hangar/PlatoonPanel/FindFriends": "Join players in a platoon and fight even
+more effectively!" "hangar/TopBar/HideQueueButton": "Hide Queue"
+"hangar/TopBar/ShowQueueButton": "Show Queue"
+"tournaments/TournamentButton/StageTour/Last2048": "1/1024"
+"tournaments/TournamentButton/StageTour/Last1024": "1/512"
+"tournaments/TournamentButton/StageTour/Last512": "1/256"
+"tournaments/TournamentButton/StageTour/Last256": "1/128"
+"tournaments/TournamentButton/StageTour/Last128": "1/64"
+"tournaments/TournamentButton/StageTour/Last64": "1/32"
+"missionJournal/battlePass/playBattles": "Battles played: %(progress)"
+"missionJournal/battlePass/destroyVehicles": "Tanks destroyed: %(progress)"
+"missionJournal/battlePass/destroyLightAndMediumTank": "Light or Medium tanks
+destroyed: %(progress)" "missionJournal/battlePass/destroyHeavyTanks": "Heavy
+tanks destroyed: %(progress)" "missionJournal/battlePass/getClass3": "Mastery
+Badges Class 3 or higher received: %(progress)"
+"missionJournal/battlePass/destroyVehiclesClassNation": "Tanks destroyed using
+specified vehicles: %(progress)" "Roulette/CompletedMessage":
+"Congratulations!\nAll draw rewards are yours!"
+"#vehicle_customization:camouflage/anim_blitz_point_01/Name": "On the Crest of a
+Wave" "#vehicle_customization:camouflage/anim_blitz_point_02/Name": "Rays of
+Glory" "#vehicle_customization:camouflage/anim_blitz_point_03/Name": "Iron
+Character" "#vehicle_customization:camouflage/anim_blitz_point_04/Name":
+"Tournament Kaleidoscope" "#other_vehicles:_100mm_D-10T2S_B": "100 mm D-10T2S B"
+"#other_vehicles:_100mm_UOF_142PM": "F 142PM" "#ussr_vehicles:R_T_34_85MO":
+"T-34-85 Brigadier" "#ussr_vehicles:V-54K_MO": "V-54K-MO"
+"#ussr_vehicles:Turret_1_R_T34_85MO": "T-34-85-MO"
+"#ussr_vehicles:Chassis_R_T34_85MO_short": "T-34-85-MO"
+"#ussr_vehicles:_85mm_UBR-365KBM_MO": "B-365KBM-MO"
+"#ussr_vehicles:_85mm_UOF-365BM_MO": "O-365BM-MO"
+"#ussr_vehicles:_85mm_D5T-85BML_MO": "85 mm D-5T-85BML-MO"
+"#ussr_vehicles:_85mm_UBR-365PBM_MO": "R-365PBM-MO"
+"#ussr_vehicles:_85mm_D5T-85BML_MO_short": "85 mm D-5T-85BML-MO"
+"#ussr_vehicles:R_T_34_85MO_short": "T-34-85 Brigadier"
+"#ussr_vehicles:Chassis_R_T34_85MO": "T-34-85-MO"
+"#other_vehicles:Oth11_T-55A_Custom_short": "T-55A Expeditionary"
+"#other_vehicles:Oth11_T-55A_Custom": "T-55A Expeditionary"
+"#vehicle_customization:camouflage/skin_t_55a/Name": "Expeditionary"
+"#ussr_vehicles:T-44_Custom_short_v2": "T-44 Singing"
+"#ussr_vehicles:T-44_Custom_v2": "T-44 Singing"
+"#vehicle_customization:camouflage/skin2_t-44/Name": "Singing"
+"#vehicle_customization:camouflage/battlepass_2026_may_01/Name": "Harsh Land"
+"#vehicle_customization:camouflage/battlepass_2026_may_02/Name": "Unnamed
+Height" "#vehicle_customization:camouflage/battlepass_2026_may_03/Name": "River
+Mists" "#vehicle_customization:camouflage/tankopolia_2026_may/Name": "Steppe
+Weed" "#vehicle_customization:camouflage/anim_tankopolia_2026_may/Name": "On the
+Far Border" "#vehicle_customization:camouflage/set_airplane/Name": "Propeller
+Spin" "BattlePass/Season_26_05/Header": "Episode "With a Song to Victory""
+"BattlePass/Season_26_05/Button": "With a song to victory"
+"BattlePass/OfferScreen/PremiumPass/bp26_05/Description": "More rewards:•
+Legendary camouflage for    Т-44• Gold Vault• Special Profile
+BackgroundSimultaneous completion of missions for all unlocked weeksMissions to
+speed up progress" "2026-TANKOPOLY/header": "Tankopoly. Memorable Motif"
+"2026-TANKOPOLY/ProgressStage/Hint": "Get  Dice for destroying enemy
+tanks.\nRoll , move across the game board, and claim rewards.\nComplete 40 laps
+— and  will be yours!" "2026-TANKOPOLY/Quest/Description": "Get 1  for every 5
+enemy tanks destroyed" "2026-TANKOPOLY/Quest/Progress": "Tanks destroyed:"
+"Tankopoly/Button/BuyCube": "Buy more Dice" "Tankopoly/Button/ThrowCube": "Roll
+Dice" "Tankopoly/Button/UpgradeCube": "Upgrade Dice"
+"Tankopoly/DicePurchaseScreen/Header": "Buy Dice"
+"Tankopoly/DicePurchaseScreen/Content/Header": "Need more Dice?"
+"Tankopoly/DicePurchaseScreen/Content/Hint": "No problem — they can be purchased
+for gold!" "Tankopoly/DiceCard/Purchased": "Purchased"
+"Tankopoly/DiceUpgradeScreen/Header": "Dice Upgrades"
+"Tankopoly/DiceUpgradeScreen/Content/Header": "Upgrade Dice"
+"Tankopoly/DiceUpgradeScreen/Content/Hint": "And complete each lap faster!"
+"Tankopoly/Reward/Here": "You are here" "Tankopoly/MainReward/CircleDone": "Laps
+completed:" "2026-TANKOPOLY/currency/win/terms": "Play Tier IV−X tanks and get 1
+Die for every 5 enemy tanks destroyed.Buy Dice bundles for gold:\n• 1 Die — 750
+gold\n• 5 Dice — 3,700 gold\n• 10 Dice — 7,250 gold\n• 20 Dice — 14,000 gold"
+"#vehicle_customization:camouflage/skin_r188_object_259a/Name": "Artist"
+"#ussr_vehicles:R188_Object_259A_Custom": "Object 259A Artist"
+"#ussr_vehicles:R188_Object_259A_Custom_short": "Obj. 259A Artist"
+"#china_vehicles:_12150L-2": "12150L mod. 2"
+"#gb_vehicles:Leyland_L60_No_4_Mk6": "Leyland L60 No. 4 Mk. 6"
+"#france_vehicles:_100mm_SA_47_AC-2": "100 mm AC SA47 mod. 2"
+"#france_vehicles:_75mm_SA50A": "75 mm SA50A"
+"#gb_vehicles:OQF_17pdr_Gun_Mk_VIIA2": "OQF 17-pdr Gun Mk. VII A"
+"#japan_vehicles:_75mm_AP_Type_1_TKK_604B": "Type 1 Toku Kou Kai B"
+"#gb_vehicles:_77mm_APCBC_Mk8T2": "77 mm APCDC Mk. 8 T2"
+"#gb_vehicles:_77mm_APDS_Mk1T2": "APDS 77 mm Mk. 2T"
+"#gb_vehicles:_77mm_HE_Mk1T2": "77 mm HE Mk. 2T"
+"#ussr_vehicles:_122mm_UBR-471-2": "BR-471-2"
+"#ussr_vehicles:_122mm_UBR-471P-2": "BR-471P-2"
+"#ussr_vehicles:_122mm_UOF-471-2": "UOF-471-2"
+"#ussr_vehicles:_85mm_UBR-365KBM-2": "UBR-365KBM-2"
+"#ussr_vehicles:_85mm_UBR-365PBM-2": "UBR-365PBM-2"
+"#ussr_vehicles:_85mm_UOF-365BM-2": "UOF-365BM-2"
+"#usa_vehicles:_90mm_AP_M77SK-2": "90 mm AP M77 SK2"
+"#usa_vehicles:_90mm_HVAP_M304K-2": "HVAP M305K"
+"#usa_vehicles:_90mm_HE_M71K-2": "HE M72K"
+"#european_vehicles:_105mm_tung_sgr_m_34B": "105mm tung sgr m/34B"
+"#european_vehicles:_105mm_slpprj_fm_49B": "105mm slpprj fm/49B"
+"#european_vehicles:_105mm_slpgr_m_43_1B": "105mm slpgr m/43(2)"
+"#germany_vehicles:_105mm_HEAT-T_T384E4G": "HEAT-T T384E4-G"
+"#usa_vehicles:_90mm_AP_M77_E4": "M77 E4" "#usa_vehicles:_90mm_HVAP_M304_E4":
+"M304 E4" "#usa_vehicles:_90mm_HE_M71_E4": "M71 E4"
+"#gb_vehicles:QF_6_pounder_8cwt_Mk_IA-B": "QF 6-pdr 8 cwt Mk. I A-B"
+"#gb_vehicles:_6pdr_APCR_Steel_B": "APCR Steel Shell B"
+"#gb_vehicles:_17pdr_QQF_AT_MkII": "OQF 17-pdr AT Gun Mk. II"
+"#gb_vehicles:_6pdr_AP_MK_1T-m": "AP Mk. 1TM" "#gb_vehicles:_6pdr_APCR_MK_1T-m":
+"APCR Mk. 1TM" "#gb_vehicles:_6pdr_HE_MK_10T-m": "HE Mk. 10TM"
+"#usa_vehicles:M46_Patton_Custom": "M46 Patton Alpha"
+"#usa_vehicles:M46_Patton_Custom_short": "M46 Patton Alpha"
+"#usa_vehicles:M-9-Y_Custom": "M-IX-Yoh Biter"
+"#usa_vehicles:M-9-Y_Custom_short": "M-IX-Yoh Biter"
+"#germany_vehicles:G85_Auf_Panther_Custom_short": "Aufkl. Panther Bumblebee"
+"#germany_vehicles:G85_Auf_Panther_Custom": "Aufkl. Panther Bumblebee"
+"#european_vehicles:It31_CC_67B_Custom_short": "SMV CC-67 Punisher"
+"#european_vehicles:It31_CC_67B_Custom": "SMV CC-67 Punisher"
+"#germany_vehicles:VK4502A_Custom_short": "VK 45.02 A Serene"
+"#germany_vehicles:VK4502A_Custom": "VK 45.02 A Serene"
+"#usa_vehicles:T69D_Custom_short": "Defender Detector"
+"#usa_vehicles:T69D_Custom": "Defender Detector"
+"#ussr_vehicles:R187_Object_590_Custom": "Object 590 Blitzislav"
+"#ussr_vehicles:R187_Object_590_Custom_short": "Obj. 590 Blitzislav"
+"#usa_vehicles:A140_ASTRON_REX_105_Custom_short_v2": "ASTRON Rex Substance"
+"#usa_vehicles:A140_ASTRON_REX_105_Custom_v2": "ASTRON Rex Substance"
+"#uk_vehicles:GB_Vickers_Cruiser_Custom_short": "Vickers CR Crabby"
+"#uk_vehicles:GB_Vickers_Cruiser_Custom": "Vickers CR Crabby"
+"#china_vehicles:Ch61_DZT_159_Custom_short": "DZT-159 Nebula"
+"#china_vehicles:Ch61_DZT_159_Custom": "DZT-159 Nebula"
+"#france_vehicles:F126_Char_Lourd_AP58_Custom_short": "Char Lourd Oracle"
+"#france_vehicles:F126_Char_Lourd_AP58_Custom": "Char Lourd Oracle"
+"#germany_vehicles:G167_Tiger_Maus_Custom_short": "Tiger-Maus Screamer"
+"#germany_vehicles:G167_Tiger_Maus_Custom": "Tiger-Maus Screamer"
+"#european_vehicles:Pl35_CS_57_Sokol_Custom_short": "Sokol Clear"
+"#european_vehicles:Pl35_CS_57_Sokol_Custom": "Sokol Clear"
+"#other_vehicles:Oth66_Frankenstank_Mk2_Custom": "Striker Renowned"
+"#other_vehicles:Oth66_Frankenstank_Mk2_Custom_short": "Striker Renowned"
+"#european_vehicles:Pl05_50TP_Tyszkiewicza_Custom_short": "50TP Tyszkiewicza
+Wizard" "#european_vehicles:Pl05_50TP_Tyszkiewicza_Custom": "50TP Tyszkiewicza
+Wizard" "#ussr_vehicles:MS-11_Custom_short": "MS-11 Polar Explorer"
+"#ussr_vehicles:MS-11_Custom": "MS-11 Polar Explorer"
+"#usa_vehicles:T49D_Custom_short": "Defender Coordinator"
+"#usa_vehicles:T49D_Custom": "Defender Coordinator"
+"#ussr_vehicles:SU-101_Custom_short": "SU-101 Taut"
+"#ussr_vehicles:SU-101_Custom": "SU-101 Taut" "#usa_vehicles:T54E1_Custom":
+"T54E1 Cybertechnology" "#usa_vehicles:T54E1_Custom_short": "T54E1
+Cybertechnology" "#germany_vehicles:G181_StuG_Maus_Custom_short": "StuG Maus
+Kotana" "#germany_vehicles:G181_StuG_Maus_Custom": "StuG Maus Kotana"
+"#ussr_vehicles:R165_Object_703_II_Custom": "Object 703 Outpost"
+"#ussr_vehicles:R165_Object_703_II_Custom_short": "Obj. 703 Outpost"
+"#ussr_vehicles:R171_IS_3_II_Custom": "IS-3-II Quantum"
+"#ussr_vehicles:R171_IS_3_II_Custom_short": "IS-3-II Quantum"
+"#ussr_vehicles:R170_IS_2_II_Custom_short": "IS-2-II Photon"
+"#ussr_vehicles:R170_IS_2_II_Custom": "IS-2-II Photon"
+"#ussr_vehicles:R169_ST_II_Custom_short": "ST-II Boson"
+"#ussr_vehicles:R169_ST_II_Custom": "ST-II Boson"
+"#germany_vehicles:PzVI_Tiger_P_Custom_short_2": "Tiger (P) Organicus"
+"#germany_vehicles:PzVI_Tiger_P_Custom_2": "Tiger (P) Organicus"
+"#france_vehicles:F115_Lorraine_50t_Custom": "Lorraine 50 t Extraterrestrial"
+"#france_vehicles:F115_Lorraine_50t_Custom_short": "Lorraine 50 t
+Extraterrestrial" "#ussr_vehicles:R177_ISU_152K_Custom_short": "ISU-152K
+Elemental" "#ussr_vehicles:R177_ISU_152K_Custom": "ISU-152K Elemental"
+"#usa_vehicles:T29_Custom_short": "T29 Reborn" "#usa_vehicles:T29_Custom": "T29
+Reborn" "#other_vehicles:Oth69_LV915_Custom_short": "Kratos Punishing"
+"#other_vehicles:Oth69_LV915_Custom": "Kratos Punishing"
+"#germany_vehicles:PzVI_AusfTUR": "#germany_vehicles:PzVI_AusfTUR"
+"#germany_vehicles:PzVI_AusfTUR_short": "#germany_vehicles:PzVI_AusfTUR_short"
+"#ussr_vehicles:T34_85TUR": "#ussr_vehicles:T34_85TUR"
+"#ussr_vehicles:T34_85TUR_short": "#ussr_vehicles:T34_85TUR_short"
+"#china_vehicles:Type_58TUR": "#china_vehicles:Type_58TUR"
+"#china_vehicles:Type_58TUR_short": "#china_vehicles:Type_58TUR_short"
+"#european_vehicles:_120mm_HC_M469": "HC M469"
+"#european_vehicles:Turret_It31_CC_67B": "CC-67B"
+"#european_vehicles:_120mm_HE_M356": "HE M356B"
+"#european_vehicles:_120mm_Cannone_Da_120-59": "Cannone da 120/59"
+"#european_vehicles:_120mm_Cannone_Da_120-59_short": "Cannone da 120/59"
+"#european_vehicles:It31_CC_67B_short": "SMV CC-67"
+"#european_vehicles:_120mm_AP_M365": "AP M365" "#european_vehicles:It31_CC_67B":
+"Semovente Controcarro mod. 1967"
+"#european_vehicles:Chassis_It31_CC_67B_short": "CC-67B"
+"#european_vehicles:Chassis_It31_CC_67B": "CC-67B"
+"#european_vehicles:Hipsano_Suiza_HS_120": "Hipsano-Suiza HS 120"
+"#usa_vehicles:M-9-Y": "M-IX-Yoh" "#usa_vehicles:Chassis_M-9-Y_short":
+"M-IX-Yoh" "#usa_vehicles:_120mm_Gun_T53A3_short": "120 mm T53A3"
+"#usa_vehicles:Chassis_M-9-Y": "M-IX-Yoh" "#usa_vehicles:M-9-Y_short":
+"M-IX-Yoh" "#usa_vehicles:Turret_M-9-Y": "M-IX-Yoh"
+"#usa_vehicles:Continental_AOSI-1195-2A": "Continental AOSI-1195-2A"
+"#usa_vehicles:_120mm_Gun_T53A3": "120 mm T53A3"
+"#european_vehicles:Chassis_Pl29_NC_Wz_70T": "NC Wz.70Т"
+"#european_vehicles:Chassis_Pl29_NC_Wz_70T_short": "NC Wz.70Т"
+"#european_vehicles:_130mm_armata_wz_62_W70_short": "130 mm armata wz. 62"
+"#european_vehicles:GTD_2T6x2": "2x GTD-2T6"
+"#european_vehicles:_130mm_AZ_OF_46_W70": "AZ-OF-46B"
+"#european_vehicles:_130mm_AZ_PB_46_A_W70": "AZ-PB-46A1"
+"#european_vehicles:_130mm_AZ_PB_46_W70": "AZ-PB-46A2"
+"#european_vehicles:Turret_Pl29_NC_Wz_70T": "NC Wz.70T"
+"#european_vehicles:_130mm_armata_wz_62_W70": "130 mm armata wz. 62"
+"#european_vehicles:_75mm_wz_36_38_wz40": "75 mm wz.36/38W"
+"#european_vehicles:_75mm_wz_24_38_wz40_short": "75 mm wz.24/38W"
+"#european_vehicles:RR_Kestrel_B": "RR Kestrel B"
+"#european_vehicles:_75mm_Pzgr39_wz40": "Pzgr 39 A"
+"#european_vehicles:_75mm_Pzgr40_wz40": "Pzgr 40 A"
+"#european_vehicles:Turret_Pl33_SDP_Wz_40": "SDP Wz.40"
+"#european_vehicles:Chassis_Pl33_SDP_Wz_40_2_short": "SDP Wz.40 B"
+"#european_vehicles:Chassis_Pl33_SDP_Wz_40": "SDP Wz.40"
+"#european_vehicles:_75mm_Sprg18L_wz40": "Sprgr 18 L-2"
+"#european_vehicles:RR_Kestrel": "RR Kestrel"
+"#european_vehicles:_75mm_wz_36_38_wz40_short": "75 mm wz.36/38W"
+"#european_vehicles:_75mm_Sprg18_wz40": "Sprgr 18 A"
+"#european_vehicles:Chassis_Pl33_SDP_Wz_40_2": "SDP Wz.40 B"
+"#european_vehicles:Chassis_Pl33_SDP_Wz_40_short": "SDP Wz.40"
+"#european_vehicles:_75mm_wz_24_38_wz40": "75 mm wz.24/38W"
+"#european_vehicles:_75mm_Pzgr40L_wz40": "Pzgr 40 L-2"
+"#european_vehicles:_75mm_Pzgr39L_wz40": "Pzgr 39 L-2"
+"#other_vehicles:Chassis_Oth66_Object_252U_short": "Obj. 252U/2"
+"#other_vehicles:Turret_Oth66_Skoda_T-56": "T-56/2"
+"#other_vehicles:Chassis_Oth66_Object_252U": "Object 252U/2"
+"#other_vehicles:Oth66_Frankenstank_Mk2": "Striker"
+"#other_vehicles:Oth66_Frankenstank_Mk2_short": "Striker"
+"#other_vehicles:_105mm_slpprj_L_67_B_FT": "slpprj L/67 B2"
+"#other_vehicles:_105mm_lvkan_L_67FT_short": "10.5 cm lvkan L/67 B"
+"#other_vehicles:V_12FT": "V-12-2" "#other_vehicles:_105mm_lvkan_L_67FT": "10.5
+cm lvkan L/67 B" "#other_vehicles:_105mm_sgr_L_67FT": "sgr L/67 B"
+"#other_vehicles:_105mm_sgrg_L67FT": "sgrg L/67 B"
+"#usa_vehicles:W_C_AOSI-895-5D": "Wright Continental AOSI-895-5D"
+"#usa_vehicles:Turret_T69D": "T69 Defender" "#usa_vehicles:_90mm_AP_M318D": "AP
+M318D" "#usa_vehicles:Chassis_T69D_short": "T69 Defender"
+"#usa_vehicles:Chassis_T69D": "T69 Defender"
+"#usa_vehicles:_90mm_Gun_T178D_short": "90 mm Gun T178D"
+"#usa_vehicles:_90mm_Gun_T178D": "90 mm Gun T178D"
+"#usa_vehicles:_90mm_HEAT_M348D": "HEAT M348D" "#usa_vehicles:T69D": "T69
+Defender" "#usa_vehicles:T69D_short": "T69 Defender"
+"#usa_vehicles:_90mm_HE_T91E3D": "HE T91E3D"
+"#european_vehicles:_130mm_AZ_OF_46_W60": "AZ-OF-46A"
+"#european_vehicles:_122mm_armata_wz_59-m_short": "122 mm armata wz. 59M"
+"#european_vehicles:_122mm_armata_wz_59_short": "122 mm armata wz. 59"
+"#european_vehicles:_122mm_BR-471_AT-m": "BR-471-ATM"
+"#european_vehicles:_122mm_BR-471_AT": "BR-471-AT"
+"#european_vehicles:Chassis_Pl28_SDP_Wz_60_2": "SDP Wz.60/2"
+"#european_vehicles:_130mm_armata_wz_62_W60": "130 mm armata wz. 62/2"
+"#european_vehicles:_122mm_OF-471_AT-m": "OF-471-ATM"
+"#european_vehicles:_122mm_OF-471_AT": "OF-471-AT"
+"#european_vehicles:_122mm_armata_wz_59-m": "122 mm armata wz. 59M"
+"#european_vehicles:_122mm_armata_wz_59": "122 mm armata wz. 59"
+"#european_vehicles:Turret_Pl28_SDP_Wz_60": "SDP Wz.60"
+"#european_vehicles:Chassis_Pl28_SDP_Wz_60_2_short": "SDP Wz.60/2"
+"#european_vehicles:_122mm_BR-471D_AT-m": "BR-471D-ATM"
+"#european_vehicles:_122mm_BR-471D_AT": "BR-471D-AT"
+"#european_vehicles:_130mm_AZ_PB_46_A_W60": "AZ-PB-46A3"
+"#european_vehicles:Chassis_Pl28_SDP_Wz_60": "SDP Wz.60"
+"#european_vehicles:_130mm_AZ_PB_46_W60": "AZ-PB-46A4"
+"#european_vehicles:_130mm_armata_wz_62_W60_short": "130 mm armata wz. 62/2"
+"#european_vehicles:SGT_3CzM2": "SGT-3CzM2" "#european_vehicles:SGT_3CzP":
+"SGT-3CzP" "#european_vehicles:Chassis_Pl28_SDP_Wz_60_short": "SDP Wz.60"
+"#european_vehicles:_122mm_AP_W60": "P-W60" "#european_vehicles:_2x_GTD-F": "2x
+GTD-F" "#european_vehicles:Chassis_Pl27_SDP_Wz_66T_short": "SDP Wz.66T"
+"#european_vehicles:_122mm_wz60": "122 mm Wz.60"
+"#european_vehicles:Turret_1_Pl27_SDP_Wz_66T": "SDP Wz.66T"
+"#european_vehicles:_122mm_HE_W60": "H-W60"
+"#european_vehicles:_122mm_APCR_W60": "CR-W60"
+"#european_vehicles:Chassis_Pl27_SDP_Wz_66T": "SDP Wz.66T"
+"#european_vehicles:_122mm_wz60_short": "122 mm Wz.60"
+"#other_vehicles:Chassis_Oth65_LKpz_70K_short": "Hagen"
+"#other_vehicles:Daimler_Benz_MB_880_Ea-300": "Daimler Benz MB 880 Ea-300"
+"#other_vehicles:Chassis_Oth65_LKpz_70K": "Hagen"
+"#other_vehicles:Turret_Oth65_LKpz_70K": "Hagen"
+"#other_vehicles:Oth65_LKpz_70K_short": "Hagen"
+"#other_vehicles:Oth65_LKpz_70K": "Hagen" "#other_vehicles:_105mm_AP_Rh69":
+"P-Rh69" "#other_vehicles:_105mm_HE_Rh69": "H-Rh69"
+"#other_vehicles:_105mm_HEAT_Rh69": "T-Rh69"
+"#other_vehicles:_105mm_Rh69_2_short": "105 mm Rh69-2"
+"#other_vehicles:_105mm_Rh69_2": "105 mm Rh69-2"
+"#ussr_vehicles:Chassis_IS-3_25_short": "IS-3A" "#ussr_vehicles:Turret_IS-3_25":
+"IS-3A" "#ussr_vehicles:_122mm_UOF-471_25": "UOF-471A"
+"#ussr_vehicles:IS-3_25_short": "IS-3 Tattoos" "#ussr_vehicles:IS-3_25": "IS-3
+Tattoos" "#ussr_vehicles:_122mm_UBR-471_25": "BR-471A"
+"#ussr_vehicles:V-2-54IS_25": "V-2-54IS/A" "#ussr_vehicles:Chassis_IS-3_25":
+"IS-3A" "#ussr_vehicles:_122mm_UBR-471P_25": "UBR-471PA"
+"#ussr_vehicles:_122mm_BL-9_25_short": "122 mm BL-9A"
+"#ussr_vehicles:_122mm_BL-9_25": "122 mm BL-9A"
+"#other_vehicles:_107mm_SoRt_AP": "Neurospike" "#other_vehicles:_107mm_SoEt25":
+"Cybersting" "#other_vehicles:_107mm_SoEt_HE": "Cryospike"
+"#other_vehicles:_107mm_SoEt_APCR": "Hypnospike"
+"#other_vehicles:Chassis_Oth67_HWT25_short": "Exodrive"
+"#other_vehicles:_107mm_SoEt25_short": "Cybersting"
+"#other_vehicles:Oth67_HWT25_short": "Biomorph" "#other_vehicles:_HWT25d":
+"Turbopulsor" "#other_vehicles:Chassis_Oth67_HWT25": "Exodrive"
+"#other_vehicles:Oth67_HWT25": "Biomorph"
+"#other_vehicles:Turret_1_Oth67_HWT25": "Neurocontroller"
+"#european_vehicles:Turret_Pl30_SDP_Wz58T": "SDP Wz.58T"
+"#european_vehicles:GTD_2T5x2": "2X GTD-2T5"
+"#european_vehicles:Chassis_Pl30_SDP_Wz58T_2": "SDP Wz.58T/2"
+"#european_vehicles:_100mm_pocisk_wybuchowy_DAP-m": "DAPM"
+"#european_vehicles:_100mm_pocisk_wybuchowy_DAP": "DAP"
+"#european_vehicles:Chassis_Pl30_SDP_Wz58T_short": "SDP Wz.58T"
+"#european_vehicles:_100mm_P_DAP_short": "100 mm P-DAP"
+"#european_vehicles:_100mm_APCR_w49_DAP-m": "AC-w49-DAPM"
+"#european_vehicles:_100mm_APCR_w49_DAP": "AC-w49-DAP"
+"#european_vehicles:_100mm_slpgr_m_49_DAP-m": "slpgr m/49-DAPM"
+"#european_vehicles:_100mm_slpgr_m_49_DAP": "slpgr m/49-DAP"
+"#european_vehicles:Chassis_Pl30_SDP_Wz58T_2_short": "SDP Wz.58T/2"
+"#european_vehicles:GTD_2T4x2": "2X GTD-2T4" "#european_vehicles:_100mm_P_DAP":
+"100 mm P-DAP" "#european_vehicles:Chassis_Pl30_SDP_Wz58T": "SDP Wz.58T"
+"#germany_vehicles:_128mm_PzGr39_TM": "Pzgr 39 TM"
+"#germany_vehicles:Mercedes_Benz_MB_507": "Mercedes-Benz MB 507"
+"#germany_vehicles:Turret_G167_Tiger_Maus": "VK 120.03 (H) Tiger-Maus"
+"#germany_vehicles:_128mm_SprG18_TM": "Sprgr 18 TM"
+"#germany_vehicles:_128mm_PzGr40_TM": "Pzgr 40 TM"
+"#germany_vehicles:Chassis_G167_Tiger_Maus": "VK 120.03 (H) Tiger-Maus"
+"#germany_vehicles:Chassis_G167_Tiger_Maus_short": "Tiger-Maus"
+"#european_vehicles:Turret_Pl32_SDP_Wz_44": "SDP Wz.44"
+"#european_vehicles:Chassis_Pl32_SDP_Wz_44": "SDP Wz.44"
+"#european_vehicles:_85mm_UOF_DAP": "U-DAP"
+"#european_vehicles:_85mm_UBR_DAP_M": "BR-DAP-M"
+"#european_vehicles:Chassis_Pl32_SDP_Wz_44_short": "SDP Wz.44"
+"#european_vehicles:_90mm_APCR_90": "AF-90" "#european_vehicles:_85mm_UBR_DAP":
+"BR-DAP" "#european_vehicles:_90mm_HE_90": "H-90"
+"#european_vehicles:_90mm_AP_90": "A-90"
+"#european_vehicles:Chassis_Pl32_SDP_Wz_44_2": "SDP Wz.44/2"
+"#european_vehicles:MT_50T": "MT-50T" "#european_vehicles:_85mm_P_DAP": "85 mm
+P-DAP" "#european_vehicles:_85mm_P_DAP_short": "85 mm P-DAP"
+"#european_vehicles:Chassis_Pl32_SDP_Wz_44_2_short": "SDP Wz.44/2"
+"#european_vehicles:W12_5B": "W12-5B"
+"#european_vehicles:Chassis_Pl31_SDP_Wz_57D": "SDP Wz.57D"
+"#european_vehicles:W_2_58D": "W-2-58D"
+"#european_vehicles:Chassis_Pl31_SDP_Wz_57D_2_short": "SDP Wz.57D Reinforced"
+"#european_vehicles:Chassis_Pl31_SDP_Wz_57D_short": "SDP Wz.57D"
+"#european_vehicles:W_2_57D": "W-2-57D"
+"#european_vehicles:Turret_Pl31_SDP_Wz_57D": "SDP Wz.57D"
+"#european_vehicles:Chassis_Pl31_SDP_Wz_57D_2": "SDP Wz.57D Reinforced"
+"#european_vehicles:_100mm_P_DAP_Wz_57D": "100 mm P-DAP WM"
+"#european_vehicles:_100mm_P_DAP_Wz_57D_short": "100 mm P-DAP WM"
+"#european_vehicles:_90mm_AP_90-m": "A-90M"
+"#european_vehicles:_90mm_APCR_90-m": "AF-90M"
+"#european_vehicles:_90mm_HE_90-m": "H-90M"
+"#european_vehicles:_90mm_wz_39_90-m": "90 mm wz. 39/90M"
+"#european_vehicles:_90mm_wz_39_90-m_short": "90 mm wz. 39/90M"
+"#china_vehicles:Chassis_Ch61_DZT_159": "DZT-159" "#china_vehicles:_1215DL_7BW":
+"1215DL-7BW" "#china_vehicles:_122mm_OF_Type57_I": "F-57-I"
+"#china_vehicles:Chassis_Ch61_DZT_159_short": "DZT-159"
+"#china_vehicles:_122mm_Type57_I_short": "122 mm Type 57-I"
+"#china_vehicles:_122mm_Type57_I": "122 mm Type 57-I"
+"#china_vehicles:_122mm_AP_Type57_I": "P-57-I"
+"#china_vehicles:Turret_Ch61_DZT_159": "DZT-159" "#china_vehicles:Ch61_DZT_159":
+"DZT-159" "#china_vehicles:Ch61_DZT_159_short": "DZT-159"
+"#china_vehicles:_122mm_HEAT_Type57_I": "T-57-I"
+"#france_vehicles:F126_Char_Lourd_AP58": "Char Lourd AP58"
+"#france_vehicles:_120mm_Prf1943_58": "Prf. mle. 1943 M2"
+"#france_vehicles:_120mm_DEFA_120F": "120 mm DEFA 120F"
+"#france_vehicles:Chassis_F126_Char_Lourd_AP58": "Char Lourd AP58"
+"#france_vehicles:Chassis_F126_Char_Lourd_AP58_short": "Char Lourd"
+"#france_vehicles:_120mm_OE_mle_1930_58": "OE mle. 1930 M2"
+"#france_vehicles:_120mm_DEFA_120F_short": "120 mm DEFA 120F"
+"#france_vehicles:Turret_F126_Char_Lourd_AP58": "Char Lourd AP58"
+"#france_vehicles:_120mm_FrtPrf1945_58": "Frt.Prf. mle. 1945 M2"
+"#france_vehicles:F126_Char_Lourd_AP58_short": "Char Lourd"
+"#france_vehicles:Maybach_HL_295_58": "Maybach HL 295-58"
+"#european_vehicles:Chassis_Pl24_56TP": "56TP"
+"#european_vehicles:Chassis_Pl24_56TP_short": "56TP"
+"#european_vehicles:_122mm_BR-471_DM": "BR-471DM"
+"#european_vehicles:_122mm_OF-471M": "OF-471M"
+"#european_vehicles:_122mm_BR-471_M": "BR-471M" "#european_vehicles:W_12_5_P_1":
+"W12-5P-1" "#uk_vehicles:_105mm_HE_L7_Mk3": "E L7 Mk. 3"
+"#uk_vehicles:_105mm_AP_L7_Mk3": "A L7 Mk. 3"
+"#uk_vehicles:_105mm_L7_Mk3_short": "105 mm L7 Mk. 3"
+"#uk_vehicles:_105mm_HEAT_L7_Mk3": "T L7 Mk. 3"
+"#uk_vehicles:Chassis_GB114_Vickers_MBT_Mk3_short": "Vickers Mk. 3"
+"#uk_vehicles:_105mm_L7_Mk3": "105 mm L7 Mk. 3"
+"#uk_vehicles:Detroit_Diesel_12V_71T": "Detroit Diesel 12V71T"
+"#uk_vehicles:Chassis_GB114_Vickers_MBT_Mk3": "Vickers Mk. 3"
+"#european_vehicles:_85mm_PP_22": "PP-22" "#european_vehicles:_85mm_3PPod_24":
+"3PPod-24" "#european_vehicles:_85mm_P_DAP_S": "85 mm P-DAP S"
+"#european_vehicles:Pl35_CS_57_Sokol": "CS-57 Sokol"
+"#european_vehicles:Turret_1_Pl35_CS_57_Sokol": "CS-57"
+"#european_vehicles:Chassis_Pl35_CS_57_Sokol_short": "CS-57"
+"#european_vehicles:GTD_2T4": "GTD-2T4"
+"#european_vehicles:Pl35_CS_57_Sokol_short": "CS-57 Sokol"
+"#european_vehicles:Chassis_Pl35_CS_57_Sokol": "CS-57"
+"#european_vehicles:_85mm_3PK_10M": "3PK-10M"
+"#european_vehicles:_85mm_P_DAP_S_short": "85 mm P-DAP S"
+"#france_vehicles:_105mm_OFL_105_F1M": "OF-105-F1M"
+"#france_vehicles:_105mm_OCC_105_F1M": "OC-105-F1M"
+"#france_vehicles:_105mm_OE_105_Mle_60F1M": "O-105-Mle. 60-F1M"
+"#france_vehicles:Moteur_EPC_version_S5": "Moteur E.P.C. version S5"
+"#france_vehicles:_105mm_Canon_Mod_F1M": "105 mm Canon mle. F1M"
+"#france_vehicles:_105mm_Canon_Mod_F1M_short": "105 mm Canon mle. F1M"
+"#france_vehicles:Chassis_F119_Projet_Murat": "Projet Murat"
+"#france_vehicles:Chassis_F119_Projet_Murat_short": "Projet Murat"
+"#ussr_vehicles:_100mm_SH240A_MS-11": "SKh-240A"
+"#ussr_vehicles:_100mm_mod_2026": "100 mm mod. 2026"
+"#ussr_vehicles:_100mm_U240A_MS-11": "U-240A" "#ussr_vehicles:Chassis_1_MS-11":
+"MS-11" "#ussr_vehicles:AMO-2026": "AMO-2026" "#ussr_vehicles:MS-11": "MS-11"
+"#ussr_vehicles:_100mm_UC240A_MS-11": "UK-240A"
+"#ussr_vehicles:_100mm_mod_2026_short": "100 mm mod. 2026"
+"#ussr_vehicles:Turret_1_MS-11": "MS-11" "#ussr_vehicles:Chassis_1_MS-11_short":
+"MS-11" "#ussr_vehicles:MS-11_short": "MS-11"
+"#ussr_vehicles:Chassis_R165_Object_703_II_short": "Object 703 II"
+"#ussr_vehicles:_107mm_ZiS-24_dualgun_short": "107 mm ZiS-24-2S"
+"#ussr_vehicles:_107mm_ZiS-24_dualgun": "107 mm ZiS-24-2S"
+"#ussr_vehicles:_107mm_UBR-420PMD": "R-420PMD" "#ussr_vehicles:V_11_Kirovets_1":
+"V-11-Kirovets-1" "#ussr_vehicles:Turret_1_R165_Object_703_II": "Object 703
+Variant II" "#ussr_vehicles:_107mm_UBR-420MD": "B-420MD"
+"#ussr_vehicles:_107mm_UOF-420MD": "F-420MD"
+"#ussr_vehicles:R165_Object_703_II": "Object 703 Variant II"
+"#ussr_vehicles:R165_Object_703_II_short": "Object 703 II"
+"#ussr_vehicles:Chassis_R165_Object_703_II": "Object 703 Variant II"
+"#germany_vehicles:Chassis_G181_StuG_Maus_short": "StuG Maus"
+"#germany_vehicles:G181_StuG_Maus": "StuG Maus"
+"#germany_vehicles:Turret_1_G181_StuG_Maus": "StuG Maus"
+"#germany_vehicles:_170mm_StuK_L53_short": "StuK L/53"
+"#germany_vehicles:_170mm_StuK_L53_Sprgr_39": "Sprgr 39"
+"#germany_vehicles:G181_StuG_Maus_short": "StuG Maus"
+"#germany_vehicles:_170mm_StuK_L53_HlGr43": "Hlgr 43"
+"#germany_vehicles:_170mm_StuK_L53_PzGr43": "Pzgr 43 L"
+"#germany_vehicles:MB509_StGM": "MB 509 StGM"
+"#germany_vehicles:Chassis_G181_StuG_Maus": "StuG Maus"
+"#germany_vehicles:_170mm_StuK_L53": "StuK L/53"
+"#usa_vehicles:_90mm_Gun_T132D": "90 mm Gun T132D"
+"#usa_vehicles:Continental_MD": "Continental MD" "#usa_vehicles:Chassis_T49D":
+"T49 Defender" "#usa_vehicles:Turret_1_T49D": "T49 Defender"
+"#usa_vehicles:T49D_short": "T49 Defender"
+"#usa_vehicles:_90mm_Gun_T132D_short": "90 mm Gun T132D"
+"#usa_vehicles:_90mm_HE_T91D": "E T91D" "#usa_vehicles:_90mm_HEAT_T108D": "A
+T108D" "#usa_vehicles:_90mm_AP_M318D2": "P M318D2"
+"#usa_vehicles:Chassis_T49D_short": "T49 Defender" "#usa_vehicles:T49D": "T49
+Defender" "#france_vehicles:_120mm_D1203P": "120 mm D. 1203 P"
+"#france_vehicles:Chassis_F115_Lorraine_50t": "Lorraine 50 t"
+"#france_vehicles:_120mm_Prf1943M2": "Prf. 1943 M2"
+"#france_vehicles:Maybach_HL_234P45C_short": "Maybach HL 234 P45C"
+"#france_vehicles:_120mm_D1203P_short": "120 mm D. 1203 P"
+"#france_vehicles:_120mm_OE_mle_1930M2": "E mle. 1930 M2"
+"#france_vehicles:Maybach_HL_234P45C": "Maybach HL 234 P45C"
+"#france_vehicles:_120mm_FrtPrf1945M2": "Frt. Prf. 1945 M2"
+"#france_vehicles:Chassis_F115_Lorraine_50t_short": "Lorraine 50 t"
+"#ussr_vehicles:_122mm_UOF-412A": "U-412A" "#ussr_vehicles:KCh-30A": "KCh-30A"
+"#ussr_vehicles:R188_Object_259A": "Object 259A"
+"#ussr_vehicles:Chassis_R188_Object_259A": "Object 259A"
+"#ussr_vehicles:Turret_1_R188_Object_259A": "Object 259A"
+"#ussr_vehicles:_122mm_S34A": "122 mm S-34A" "#ussr_vehicles:_122mm_BR-34A":
+"B-34A" "#ussr_vehicles:_122mm_S34A_short": "122 mm S-34A"
+"#ussr_vehicles:_122mm_UBR-34A": "R-34A"
+"#ussr_vehicles:Chassis_R188_Object_259A_short": "Obj. 259A"
+"#ussr_vehicles:R188_Object_259A_short": "Obj. 259A"
+"#ussr_vehicles:_122mm_S34_49_short": "122 mm S-34-49" "#ussr_vehicles:B_64S":
+"V-64S" "#ussr_vehicles:_122mm_UBR-471S": "UBR-471S"
+"#ussr_vehicles:Chassis_R183_K_91_PT": "K-91-PT" "#ussr_vehicles:_122mm_S34_49":
+"122 mm S-34-49" "#ussr_vehicles:R183_K_91_PT_short": "K-91-PT"
+"#ussr_vehicles:Turret_1_R183_K_91_PT": "K-91-PT" "#ussr_vehicles:R183_K_91_PT":
+"K-91-PT" "#ussr_vehicles:_122mm_BR-471S": "BR-471S"
+"#ussr_vehicles:Chassis_R183_K_91_PT_short": "K-91-PT"
+"#ussr_vehicles:_122mm_OF-471S": "OF-471S" "#ussr_vehicles:Turret_1_R169_ST_II":
+"ST-II" "#ussr_vehicles:_122mm_M62-T2_dualgun": "122 mm M62-T2-2S"
+"#ussr_vehicles:_122mm_M62-T2_dualgun_short": "122 mm M62-T2-2S"
+"#ussr_vehicles:_122mm_BM11-DG": "BM11-DG" "#ussr_vehicles:R169_ST_II_short":
+"ST-II" "#ussr_vehicles:Chassis_R169_ST_II": "ST-II"
+"#ussr_vehicles:R169_ST_II": "ST-II" "#ussr_vehicles:_122mm_BR-471D-DG":
+"BR-471D-DG" "#ussr_vehicles:V-12_M": "V-12M"
+"#ussr_vehicles:_122mm_UOF-472-DG": "UOF-472-DG"
+"#ussr_vehicles:Chassis_R169_ST_II_short": "ST-II"
+"#ussr_vehicles:_122mm_UBR-471PM-DG": "U-471PM-DG"
+"#ussr_vehicles:Chassis_R171_IS_3_II_short": "IS-3-II"
+"#ussr_vehicles:_122mm_UBR-471M-DG": "U-471M-DG"
+"#ussr_vehicles:Turret_2_R171_IS_3_II": "IS-3-II late" "#ussr_vehicles:V-12-6M":
+"V-12-6M" "#ussr_vehicles:Chassis_R171_IS_3_II_2": "IS-3-II"
+"#ussr_vehicles:_122mm_53-VBR-471B": "53-V-471B"
+"#ussr_vehicles:_122mm_S34_II_dualgun": "122 mm S-34 II"
+"#ussr_vehicles:Turret_1_R171_IS_3_II": "IS-3-II prototype"
+"#ussr_vehicles:R171_IS_3_II_short": "IS-3-II"
+"#ussr_vehicles:_122mm_BL-9_dualgun_short": "122 mm BL-9 II"
+"#ussr_vehicles:R171_IS_3_II": "IS-3-II"
+"#ussr_vehicles:_122mm_S34_II_dualgun_short": "122 mm S-34 II"
+"#ussr_vehicles:_122mm_53-VBR-471D": "53-V-471D"
+"#ussr_vehicles:Chassis_R171_IS_3_II": "IS-3-II"
+"#ussr_vehicles:_122mm_53-VOF-471": "53-F-471" "#ussr_vehicles:V-12-5M":
+"V-12-5M" "#ussr_vehicles:_122mm_BL-9_dualgun": "122 mm BL-9 II"
+"#ussr_vehicles:_122mm_UOF-471M-DG": "F-471M-DG"
+"#ussr_vehicles:Chassis_R171_IS_3_II_2_short": "IS-3-II"
+"#other_vehicles:Turret_1_Oth68_MB85": "MB-85"
+"#other_vehicles:_87mm_TBG_A1_short": "87 mm TBG A1"
+"#other_vehicles:Oth68_MB85_short": "MB-85 Bor" "#other_vehicles:_87mm_HE_MB5":
+"HE MB-5" "#other_vehicles:Chassis_Oth68_MB85": "MB-85"
+"#other_vehicles:IW_K-1836TD": "IW K-1836TD" "#other_vehicles:Oth68_MB85":
+"MB-85 Bor" "#other_vehicles:_87mm_HEAT_MB5": "HEAT MB-5"
+"#other_vehicles:_87mm_AP_MB5": "AP MB-5" "#other_vehicles:_87mm_TBG_A1": "87 mm
+TBG A1" "#other_vehicles:Chassis_Oth68_MB85_short": "MB-85"
+"#ussr_vehicles:_85mm_BR-365P-DG": "BR-365P-DG"
+"#ussr_vehicles:Chassis_R170_IS_2_II_2_short": "IS-2-II late"
+"#ussr_vehicles:Chassis_R170_IS_2_II": "IS-2-II early"
+"#ussr_vehicles:_85mm_D-5T_dualgun": "85 mm D-5TD"
+"#ussr_vehicles:_85mm_UOF-412-DG": "UOF-412-DG"
+"#ussr_vehicles:Turret_1_R170_IS_2_II": "IS-2-II standard"
+"#ussr_vehicles:V-12-5M1": "V-12-5M1" "#ussr_vehicles:_85mm_BR-365-DG":
+"BR-365-DG" "#ussr_vehicles:_85mm_D-5T_dualgun_short": "85 mm D-5TD"
+"#ussr_vehicles:Chassis_R170_IS_2_II_2": "IS-2-II late"
+"#ussr_vehicles:_100mm_UBR-412-DG": "UBR-412-DG"
+"#ussr_vehicles:Turret_2_R170_IS_2_II": "IS-2-II experimental"
+"#ussr_vehicles:V-12-6M1": "V-12-6M1" "#ussr_vehicles:_100mm_S34_dualgun_short":
+"100 mm S-34D" "#ussr_vehicles:_100mm_S34_dualgun": "100 mm S-34D"
+"#ussr_vehicles:_100mm_UBR-412P-DG": "UBR-412P-DG"
+"#ussr_vehicles:R170_IS_2_II_short": "IS-2-II" "#ussr_vehicles:R170_IS_2_II":
+"IS-2-II" "#ussr_vehicles:Chassis_R170_IS_2_II_short": "IS-2-II early"
+"#ussr_vehicles:_100mm_UOF-412-DG": "UOF-412-UDG"
+"#ussr_vehicles:Chassis_R177_ISU_152K": "ISU-152K"
+"#ussr_vehicles:_152mm_BL-10K_short": "152 mm BL-10K"
+"#ussr_vehicles:Chassis_R177_ISU_152K_short": "ISU-152K"
+"#ussr_vehicles:V_54K2": "V-54K2" "#ussr_vehicles:_152mm_53-OF-551K":
+"53-O-551K" "#ussr_vehicles:_152mm_UBR551PK": "U-551PK"
+"#ussr_vehicles:_152mm_UBR551K": "U-551K" "#ussr_vehicles:R177_ISU_152K":
+"ISU-152K" "#ussr_vehicles:R177_ISU_152K_short": "ISU-152K"
+"#ussr_vehicles:_152mm_BL-10K": "152 mm BL-10K"
+"#ussr_vehicles:Turret_1_R177_ISU_152K": "ISU-152K"
+"#other_vehicles:Oth69_LV915_short": "LV-915 Kratos"
+"#other_vehicles:_127mm_AP_T401S": "T401S"
+"#other_vehicles:Turret_1_Oth69_LV915": "LV-915" "#other_vehicles:_127mm_LV17S":
+"127 mm LV-17S" "#other_vehicles:Chassis_Oth69_LV915_short": "LV-915"
+"#other_vehicles:Oth69_LV915": "LV-915 Kratos"
+"#other_vehicles:_127mm_LV17S_short": "127 mm LV-17S"
+"#other_vehicles:_TDVM_800DS": "TDVM-800DS" "#other_vehicles:_127mm_APCR_T402S":
+"T402S" "#other_vehicles:Chassis_Oth69_LV915": "LV-915"
+"#other_vehicles:_127mm_HE_T403S": "T403S"
+
