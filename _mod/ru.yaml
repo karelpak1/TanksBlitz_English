@@ -8550,7 +8550,7 @@
 "hangar/BattleButton": "BATTLE!"
 "hangar/Appearance": "APPEARANCE"
 "hangar/Footer/BuySlot": "PURCHASE SLOT"
-"hangar/Footer/FreeSlots": "Vacant slots: %(slots)"
+"hangar/Footer/FreeSlots": "Vacant slots:"
 "hangar/Footer/TankCell/XPMultiplier": "x%(xpFactor)"
 "hangar/Footer/TankCell/InBattle": "IN BATTLE"
 "hangar/Footer/TankCell/Mismatch": "UNSUITABLE"
