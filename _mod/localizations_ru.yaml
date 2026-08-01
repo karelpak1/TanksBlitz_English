@@ -523,15 +523,15 @@
 "stuff/snowflake_rare_demo/title": "Silver Snowflake"
 "stuff/snowflake_unique_demo/obtaining": "• Open bonus containers in the CONTAINERS tab of the Store.\n• Open Candy Boxes in the OFFERS tab of the Store during the New Year's Adventure event."
 "stuff/snowflake_unique_demo/title": "Silver Snowflake"
-"storage/Items/Halloween2017/BlueSign/Features": "Premium Account bonus is applied to Ultramarines Emblems, while boosters are not applied."
-"storage/Items/Halloween2017/BlueSign/Obtainment": "• Complete missions and earn Combat XP.\n• You may also find this currency in bonus containers."
-"storage/Items/Halloween2017/BlueSign/Title": "Ultramarines Emblem"
-"storage/Items/Halloween2017/Sign/Description": "Currency for the \"Warhammer 40,000: Macragge's Thunder\" event."
-"storage/Items/Halloween2017/YellowSign/Features": "• Premium Account bonus and boosters are not applied to Imperial Fists Emblems."
-"storage/Items/Halloween2017/YellowSign/Obtainment": "• Cause the most damage in your first 3 victorious battles every day.\n• You may also find this currency in bonus containers."
-"storage/Items/Halloween2017/YellowSign/Title": "Imperial Fists Emblem"
-"storage/Items/SeasonChest/Description": "Includes random rewards from the list."
-"storage/Items/SeasonChest/Title": "Season Container"
+"storage/Items/Halloween2017/BlueSign/Features": 
+"storage/Items/Halloween2017/BlueSign/Obtainment": 
+"storage/Items/Halloween2017/BlueSign/Title": 
+"storage/Items/Halloween2017/Sign/Description": 
+"storage/Items/Halloween2017/YellowSign/Features": 
+"storage/Items/Halloween2017/YellowSign/Obtainment": 
+"storage/Items/Halloween2017/YellowSign/Title": 
+"storage/Items/SeasonChest/Description": 
+"storage/Items/SeasonChest/Title": 
 "NewYear2019Event/Currency/CandyCane/title": 
 "big_april_event/Currencies/BattleProxy": 
 "big_april_event/Currencies/SpecialTaskProxy": 
@@ -557,9 +557,9 @@
 "storage/Items/BattleMissionCurrency/Features": 
 "storage/Items/BattleVictoriesCurrency/Features": 
 "storage/Items/BattleVictoriesCurrency/Obtainment": 
-"storage/Items/Birthday_Event/BirthdayProxy/Description": "World of Tanks Blitz is celebrating its birthday!"
-"storage/Items/Birthday_Event/BirthdayProxy/Obtainment": "For each of your first 4 battles during the birthday celebration, you will receive 1 Birthday Cake. Mmm, delicious!"
-"storage/Items/Birthday_Event/BirthdayProxy/Title": "Birthday Cake"
+"storage/Items/Birthday_Event/BirthdayProxy/Description": 
+"storage/Items/Birthday_Event/BirthdayProxy/Obtainment": 
+"storage/Items/Birthday_Event/BirthdayProxy/Title": 
 "storage/Items/DeviceProxy/Description": 
 "storage/Items/DeviceProxy/Title": 
 "storage/Items/Duck_Event/DuckProxy/Description": 
@@ -769,10 +769,10 @@
 "avatars/Items/VictoriesNumber/ObtainmentShort": "Win %(wins) battle(s)"
 "avatars/Items/RassenayHeroesMedal/ObtainmentDetailed": "• Earn Raseiniai Heroes' Medals.\n• All medals received since your account creation are counted."
 "avatars/Items/RassenayHeroesMedal/ObtainmentShort": "Earn %(amount) medal(s)"
-"storage/Items/BattleXPBooster/Rare/Description": "Gives a %(economicBooster.xpBoostFactor) bonus to Combat XP earned in battle.\nCombine boosters of this type to get Epic Combat XP boosters (+%(reward_economicBooster.xpBoostFactor))."
-"storage/Items/CreditsBooster/Rare/Description": "Gives a %(creditsBoostMin)–%(creditsBoostMax) bonus to credits earned in battle.\nCombine boosters of this type to get Epic Credit boosters (+%(reward_creditsBoostMin)–%(reward_creditsBoostMax))."
-"storage/Items/CrewXPBooster/Rare/Description": "Gives a %(economicBooster.xpAvBoostFactor) bonus to Crew XP earned in battle.\nCombine boosters of this type to get Epic Crew XP boosters (+%(reward_economicBooster.xpAvBoostFactor))."
-"storage/Items/FreeXPBooster/Rare/Description": "Gives a %(economicBooster.xpFreeBoostFactor) bonus to Free XP earned in battle.\nCombine boosters of this type to get Epic Free XP boosters (+%(reward_economicBooster.xpFreeBoostFactor))."
+"storage/Items/BattleXPBooster/Rare/Description": 
+"storage/Items/CreditsBooster/Rare/Description": 
+"storage/Items/CrewXPBooster/Rare/Description": 
+"storage/Items/FreeXPBooster/Rare/Description": 
 "storage/Items/Avatar/lny2019_v3/Obtainment": 
 "storage/Items/lny19_chest/Description": 
 "storage/Items/lny19_chest/Title": 
@@ -1328,8 +1328,8 @@
 "storage/Items/keychest_Scorpoin_G_3_days/Description": "Contains the Rheinmetall Skorpion G, a Tier VIII Premium tank destroyer, with a 5% drop chance or 3 random rewards:\n• Parts of the Tiger 131, E 25, or Panzer 58\n• Certificates for 2,300 Free XP\n• Gold or Gold Boosters"
 "storage/Items/keychest_Scorpoin_G_3_days/Obtainment": "Fight regular battles."
 "storage/Items/keychest_Scorpoin_G_3_days/Title": "Skorpion G Lockbox"
-"storage/Items/GoldBooster/Features": "Effective for 1 battle."
-"storage/Items/GoldBooster/Rare/Description": "Earns at least %(goldBoostMin) gold per battle.\nA victory earns up to %(goldBoostMax) gold depending on the tier of the tank."
+"storage/Items/GoldBooster/Features": 
+"storage/Items/GoldBooster/Rare/Description": 
 "PiggyBank/ConvertCombatXP": "for every %(requiredXP) Combat XP earned in battle"
 "storage/Items/PiggyBank/Title": "Gold Box"
 "storage/Items/certificate_x5_exp_on_victory/Features": "Applies to Tier %(certificate_victory_multiplier.restriction.levels) tanks."
@@ -1436,7 +1436,7 @@
 "storage/Items/CustomBG/Description": "Changes your profile background."
 "storage/Items/CustomBG/bp1/Title": "Onslaught Profile Background"
 "storage/Items/IS6FearlessObtainment": "Can be received as a reward during in-game activities."
-"storage/Items/TwisterChestProxy/Title": "Season Coin"
+"storage/Items/TwisterChestProxy/Title": 
 "storage/Items/Avatar/AceTanker/Description": "Mastery proven."
 "storage/Items/Avatar/AceTanker/Title": "Ace Tanker Avatar"
 "storage/Items/china_spring2020/proxy/prx_china_spring2020/Title": "Labor Day Emblems"
@@ -1607,7 +1607,7 @@
 "storage/Items/special_tournament_currency/Description": "Can be spent in the in-game Store.\nItems are regularly available in the Store for a limited time. Don't miss out!"
 "storage/Items/special_tournament_currency/Obtainment": "Fight in competitive modes."
 "storage/Items/special_tournament_currency/Title": "Coin"
-"storage/Items/Avatar/Arnold/Description": "Meet Arnold, the fearless tanker!"
+"storage/Items/Avatar/Arnold/Description": 
 "descriptionString": 
 "avatars/Items/MadGamesVictories/Title": "Mad Games Avatar"
 "avatars/Items/MadGamesVictories/ObtainmentDetailed": "Win Mad Games battles."
@@ -1702,9 +1702,9 @@
 "storage/Items/Emil1951Chest/Title": "EMIL 1951 Container"
 "storage/Items/Subscription/10Days/Features": "• The subscription is effective for 10 days.\n• The reward is refreshed once per day together with the x2 XP bonus.\n• The reward is not added for missed days."
 "storage/Items/Subscription/Gift/Title": "Subscription to Resources"
-"avatars/Items/BlitzCupTeams/ASIA/Description": "Team participating in the Blitz Asia Cup."
-"avatars/Items/BlitzCupTeams/ASIA/UltimateFeast/Title": "Ultimate FEAST Avatar"
-"storage/Items/halloween2020_band/prx_halloween2020_band/Title": "Guitar Picks"
+"avatars/Items/BlitzCupTeams/ASIA/Description": 
+"avatars/Items/BlitzCupTeams/ASIA/UltimateFeast/Title": 
+"storage/Items/halloween2020_band/prx_halloween2020_band/Title": 
 "avatars/Items/Trident/Title": "Gladiator's Trident Avatar"
 "avatars/Items/BurningGamesHeal/Title": "Jaws of Life Avatar"
 "avatars/Items/BurningGamesHeal/ObtainmentDetailed": "Restore your allies' HP in Burning Games battles."
@@ -2466,9 +2466,9 @@
 "storage/Items/keychest_T22sr_3_days/Features": "• Opens with a special Key.\n• To get the Key, purchase it in the in-game Store."
 "storage/Items/keychest_T22sr_3_days/Obtainment": "May be received as a reward for battles."
 "storage/Items/keychest_T22sr_3_days/Title": "T-22 medium Lockbox"
-"storage/Items/8MarchSpecialChest/Colleague/Description": "Includes all rewards from the list."
-"storage/Items/8MarchSpecialChest/Colleague/Features": "Thank you for being an inspiration!"
-"storage/Items/8MarchSpecialChest/Colleague/Title": "Springtime Compliments"
+"storage/Items/8MarchSpecialChest/Colleague/Description": 
+"storage/Items/8MarchSpecialChest/Colleague/Features": 
+"storage/Items/8MarchSpecialChest/Colleague/Title": 
 "storage/Items/stuffQuest_play_btls/ObtainingMethod": "Get from bundles in the Store."
 "storage/Items/stuffQuest_win_btls/ObtainingMethod": "Get from bundles in the Store."
 "storage/Items/stuffQuest_win_plural/Description": "Win %(wins) battles"
@@ -3147,7 +3147,7 @@
 "storage/Items/Camouflage/bp22/PaidBattlePass/Obtainment": "Unlocks with the Premium Pass during Operation Arcade Arena in June 2022."
 "storage/Items/prx_topup_may2022_tank/Description": "Exchange it in the Store for one of these tanks: the <text_white_bold>WZ Blaze</text_white_bold>, the <text_white_bold>FV201 (A45)</text_white_bold>, or the <text_white_bold>T26E3 Eagle 7</text_white_bold>."
 "storage/Items/prx_topup_may2022_tank/Features": "The item will be deducted at the end of the event without compensation."
-"storage/Items/Reactions/Description": "Show your emotions after a battle!"
+"storage/Items/Reactions/Description": 
 "storage/Items/Reactions/Obtainment": 
 "storage/Items/Reactions/default/Title": "Classic Reactions Pack"
 "storage/Items/prx_gold2022/Title": "Nuggets"
@@ -3216,8 +3216,8 @@
 "storage/Items/avatar_july22_bear/Title": "After Winter Sleep Avatar"
 "storage/Items/avatar_july22_buffalo/Obtainment": "Open Crossing Lockboxes."
 "storage/Items/avatar_july22_buffalo/Title": "It's a Herbivore! Avatar"
-"storage/Items/BadgerChest/Description": "Includes the FV217 Badger, a Tier X Collector tank destroyer, with a 3.5% drop chance or random rewards:\n• 3 Common rewards with a 51.5% drop chance\n• 3 Rare rewards with a 35% drop chance\n• 3 Epic rewards with a 10% drop chance"
-"storage/Items/BadgerChest/Title": "FV217 Badger Container"
+"storage/Items/BadgerChest/Description": 
+"storage/Items/BadgerChest/Title": 
 "storage/Items/stuffQuest_summer2022_cn_platoon_1/Description": "驾驶V级-X级坦克，组队获得3场胜利（遭遇战、争霸战和评级赛)"
 "storage/Items/stuffQuest_summer2022_cn_platoon_2/Description": "驾驶VII级-VIII级坦克，并组队在3场战斗中（遭遇战、争霸战和评级赛）造成4000点伤害"
 "storage/Items/stuffQuest_summer2022_cn_platoon_3/Description": "驾驶VII级-VIII级坦克，并组队在1场战斗中（遭遇战、争霸战和评级赛）至少摧毁5辆敌方坦克"
@@ -4386,7 +4386,7 @@
 "storage/Items/kosmos_june_23/Title": "Контейнер «Просто космос»"
 "storage/Items/prx_2024_NY_surprise/Description": "It'll come in handy at the end of the year."
 "storage/Items/prx_2024_NY_surprise/Title": "Icy Surprise"
-"storage/Items/hdecor_gc_2023_ball/Title": "Retrotopia Football Trophy Garage Gear"
+"storage/Items/hdecor_gc_2023_ball/Title": 
 "storage/Items/draw_2023_TL_7_120/Title": "TL-7-120 Arachnid \nDraw"
 "storage/Items/draw_2023_TL_7_120/Description": "• Each time you play Draw, a random reward drops.\n• You get a new reward each time, because the ones you've already received are removed from it.\n• Drop chances for the desired reward increase with each attempt. At the same time, the cost of attempts increases as well."
 "storage/Items/USANationChest/Description": "Includes an American tank from the list with a 10% drop chance and 3 guaranteed rewards:\n• Certificates for Free XP\n• Certificates for XP bonus\n• Boosters"
@@ -4529,34 +4529,34 @@
 "storage/Items/6YearsBirthdayChest/Description_v2": "Includes rewards from the list:\n• A Tier VI Premium or Collector tank from the list with a 10% drop chance\n• Certificates for Free XP with a 70% drop chance\n• Certificates for XP bonus with a 70% drop chance\n• Boosters with a 100% drop chance"
 "storage/Items/collectable_item_2023_tournament/Title": "Tournament Trophy Collectible Item"
 "storage/Items/collectable_item_2023_tournament/Description": "Awarded for participation in tournaments."
-"#achievements:medalLeClerc_heroInfo": "Philippe Leclerc was a General of the Free French Forces during WWII and one of the leaders of the Paris liberation operation."
-"#achievements:heroesOfRassenay_heroInfo": "In June 1941, near the Lithuanian town of Raseiniai, roughly 20 KV tanks of the Soviet 3rd Mechanized Corps engaged an assaulting force of 100 tanks from the 6th Panzer Division. A single KV tank managed to hold off the German advance for a full day while being pummeled by a variety of anti-tank weapons until the KV ran out of ammo and was knocked out."
-"#achievements:medalAbrams_heroInfo": "General Creighton Abrams commanded the U.S. armored forces during WWII and the Vietnam War, earning a reputation as an aggressive and successful commander."
-"#achievements:medalPoppel_heroInfo": "Lieutenant General of Tank Forces Nikolay Popel, a Soviet military leader and political officer, organized a raid into the enemy rear using captured vehicles during the battle of Dubno (Ukraine) in the summer of 1941."
-"#achievements:medalTarczay_heroInfo": "Ervin Tarczay was a Hungarian tank ace. He fought with the Hungarian 2nd Armored Division and destroyed at least 10 enemy vehicles."
-"#achievements:medalBillotte_heroInfo": "Pierre Billotte was a captain in the French Army who destroyed two PzKpfw IVs, eleven PzKpfw IIIs and two guns with his Char B1 bis on May 16, 1940."
-"#achievements:medalLavrinenko_heroInfo": "Dmitry Lavrinenko, a Hero of the Soviet Union, Guards Lieutenant, and tank ace, was recognized as the top Soviet tanker, destroying 52 tanks in 28 battles over the course of just two months."
-"#achievements:medalEkins_heroInfo": "Joe Ekins was a tank gunner in the Northamptonshire Division of the British Territorial Army. A number of sources identify Ekins as the individual who brought down famous German tank ace Michael Wittmann."
-"#achievements:medalKay_heroInfo": "Douglas Kay, a British Army sergeant and gunner on a Sherman Firefly, participated in the Allied landing in Normandy and later helped increase popular interest in tank warfare."
-"#achievements:medalBrunoPietro_heroInfo": "Pietro Bruno was an Italian tank ace. For exceptional valor in the face of the enemy he was awarded the Gold Medal of Military Valor, the highest Italian award."
-"#achievements:medalFadin_heroInfo": "A Hero of the Soviet Union, Alexander Fadin was a T-34 commander. Supported by one infantry platoon, Fadin managed to capture the village of Dashukovka (Ukraine) and hold it for five hours with one tank. He destroyed one tank, one SPG, eighteen machinegun nests, and up to 50 enemy soldiers and officers. His crew also shot down an enemy plane."
-"#achievements:medalDeLanglade_heroInfo": "Paul Girot de Langlade was a French Army lieutenant colonel during WWII. In September 1943, he was promoted to colonel. De Langlade fought with the 2nd Tank Division under General Leclerc. On September 12–13, 1944, a combat team under de Langlade's command wiped out Panzerbrigade 112 in the battle of Dompaire, France. Only 4 out of 45 Panthers survived the battle."
-"#achievements:medalHalonen_heroInfo": "Erkki Halonen, a sergeant in the Finnish Army and a tank ace, destroyed three T-34's, two KV-1's, and two ISU-152's with his StuG III in battles during June and July 1944."
-"#achievements:medalLehvaslaiho_heroInfo": "Reino Lehväslaiho was a Finnish tank ace who destroyed 7 tanks and tank destroyers."
-"#achievements:medalLafayettePool_heroInfo": "Lafayette G. Pool is widely recognized as the U.S. tank ace of aces who destroyed a total of 258 armored vehicles and military vehicles."
-"#achievements:medalCarius_heroInfo": "Otto Carius was one of the most successful tank aces of WWII. He commanded the PzKpfw 38(t), the PzKpfw VI Tiger, and the Jagdtiger tank destroyer during his impressive career."
-"#achievements:medalOrlik_heroInfo": "Roman Edmund Orlik, a Polish Army sergeant, was a tank ace who knocked out 13 German tanks with his light TKS tankette in September 1939."
-"#achievements:medalOskin_heroInfo": "Alexander Oskin, a Hero of the Soviet Union, was a tank commander who destroyed three King Tigers with his T-34 during a reconnaissance operation near Oglenduv on August 11, 1944."
-"#achievements:medalKolobanov_heroInfo": "Colonel Zinoviy Kolobanov was a Soviet tank ace who destroyed 22 German tanks, 2 armored guns, and 2 vehicles with his KV-1 in battle on August 19, 1941."
-"#achievements:medalNikolas_heroInfo": "Alfred \"Alfie\" Nicholls was a British tank gunner who destroyed 14 German tanks (including 9 in one day) during the battle of El Alamein."
-"#achievements:medalRadleyWalters_heroInfo": "Sydney Valpy Radley-Walters was a Canadian tank ace of the 27th Armored Regiment. In 1944–1945, he destroyed 18 German vehicles with his Sherman Firefly."
-"#achievements:medalBurda_heroInfo": "Guards Colonel Alexander Burda was a Soviet tank ace and a Hero of the Soviet Union. On October 4, 1941, Burda organized an ambush that destroyed an enemy armored column, including ten medium and light tanks, two trucks with antitank guns, and five infantry vehicles."
-"#achievements:medalDumitru_heroInfo": "Ion S. Dumitru was a Romanian tank ace. He fought in World War II for just twenty-five days, for five on the German side, and, after Romania changed sides, for twenty days against the Germans. On March 26, 1945, Dumitru contributed to the destruction of six enemy tank destroyers and capture of a battery of 150 mm howitzers."
-"#achievements:medalPascucci_heroInfo": "Second Lieutenant Luigi Arbib Pascucci was an Italian tank commander during World War Two. He fought with the Ariete Tank Division in North Africa. Pascucci fought in the Second Battle of El Alamein, where he sacrificed his life in a reckless frontal attack that enabled the rest of his company to escape encirclement."
-"#achievements:medalTamadaYoshio_heroInfo": "Colonel Tamada Yoshio was the commander-in-chief of the 4th Armored Regiment of the Kwantung Army. During the night battle of Khalkhyn Gol on July 2–3, 1939, he destroyed 4 batteries of 122 mm howitzers, 107 mm guns, 76.2 mm field guns, 10 armored vehicles, 2 armored tracked vehicles, 7 anti-tank guns, 5 mortars, and 20 enemy trucks."
-"#achievements:medalWittmann_heroInfo": "Johannes Bölter was one of the most successful German tank aces of WWII. He participated in operations in the invasions of Poland, France, Greece, and the Soviet Union, as well as in the defense of France."
-"#achievements:medalKnispel_heroInfo": "Kurt Knispel, a WWII German tank ace, participated in battles on both the Western and Eastern Fronts, fighting in PzKpfw II, PzKpfw III, PzKpfw IV, PzKpfw VI Tiger, and PzKpfw VI Ausf. B Tiger II."
-"HISTORIC_INFO": "Historical Reference:"
+"#achievements:medalLeClerc_heroInfo": ""
+"#achievements:heroesOfRassenay_heroInfo": ""
+"#achievements:medalAbrams_heroInfo": ""
+"#achievements:medalPoppel_heroInfo": ""
+"#achievements:medalTarczay_heroInfo": ""
+"#achievements:medalBillotte_heroInfo": ""
+"#achievements:medalLavrinenko_heroInfo": ""
+"#achievements:medalEkins_heroInfo": ""
+"#achievements:medalKay_heroInfo": ""
+"#achievements:medalBrunoPietro_heroInfo": ""
+"#achievements:medalFadin_heroInfo": ""
+"#achievements:medalDeLanglade_heroInfo": ""
+"#achievements:medalHalonen_heroInfo": ""
+"#achievements:medalLehvaslaiho_heroInfo": ""
+"#achievements:medalLafayettePool_heroInfo": ""
+"#achievements:medalCarius_heroInfo": ""
+"#achievements:medalOrlik_heroInfo": ""
+"#achievements:medalOskin_heroInfo": ""
+"#achievements:medalKolobanov_heroInfo": ""
+"#achievements:medalNikolas_heroInfo": ""
+"#achievements:medalRadleyWalters_heroInfo": ""
+"#achievements:medalBurda_heroInfo": ""
+"#achievements:medalDumitru_heroInfo": ""
+"#achievements:medalPascucci_heroInfo": ""
+"#achievements:medalTamadaYoshio_heroInfo": ""
+"#achievements:medalWittmann_heroInfo": ""
+"#achievements:medalKnispel_heroInfo": ""
+"HISTORIC_INFO": ""
 "storage/Items/Chest_Object_260_20/Description": "Includes the Object 260, a Tier X Collector heavy tank, with a 20% drop chance or 5,000 gold with an 80% drop chance."
 "storage/Items/Chest_Object_260_20/Title": "Object 260 Container"
 "storage/Items/EuropeNation0723Chest/Description": "Includes a European tank from the list with a 10% drop chance and 3 guaranteed rewards:\n• Certificates for Free XP\n• Certificates for XP bonus\n• Boosters"
@@ -5004,20 +5004,20 @@
 "storage/Items/skin_token_Werewolf_winter/Description": "Unlocks the 'Snowy Werewolf' camouflage for the Black Dog."
 "storage/Items/skin_token_Werewolf_winter/Obtainment": "• May be contained in containers and be a reward in various game activities.\n• Parts of the certificate can be combined into a certificate."
 "storage/Items/skin_token_Werewolf_winter/Title": "Camouflage 'Snowy Werewolf'"
-"storage/Items/avatar_ring_anim/Description": "Welcome to the prestigious lounge."
-"storage/Items/avatar_ring_anim/Title": "Authority of the Rich Animated Avatar"
-"avatars/Items/bp39/BundleAvatar/Obtainment": "From a special bundle during Operation Volcanic Island in November 2023."
-"avatars/Items/bp39/BundleAvatar/Title": "Driller Avatar"
-"avatars/Items/bp39/FreeBattlePass/Title": "Finn Avatar"
-"avatars/Items/bp39/PaidBattlePass/Title": "Sea Wanderer Avatar"
-"storage/Items/Camouflage/bp39/FreeBattlePass/Obtainment": "Unlocks with the regular Pass or Premium Pass during Operation Volcanic Island in November 2023."
-"storage/Items/Camouflage/bp39/PaidBattlePass/Obtainment": "Unlocks with the Premium Pass during Operation Volcanic Island in November 2023."
-"avatars/Items/bp38/BundleAvatar/Obtainment": "From a special bundle during Operation Swampland in October 2023."
-"avatars/Items/bp38/BundleAvatar/Title": "Swale Avatar"
-"avatars/Items/bp38/FreeBattlePass/Title": "Chief Avatar"
-"avatars/Items/bp38/PaidBattlePass/Title": "Raven's Realm Avatar"
-"storage/Items/Camouflage/bp38/FreeBattlePass/Obtainment": "Unlocks with the regular Pass or Premium Pass during Operation Swampland in October 2023."
-"storage/Items/Camouflage/bp38/PaidBattlePass/Obtainment": "Unlocks with the Premium Pass during Operation Swampland in October 2023."
+"storage/Items/avatar_ring_anim/Description": 
+"storage/Items/avatar_ring_anim/Title": 
+"avatars/Items/bp39/BundleAvatar/Obtainment": 
+"avatars/Items/bp39/BundleAvatar/Title": 
+"avatars/Items/bp39/FreeBattlePass/Title": 
+"avatars/Items/bp39/PaidBattlePass/Title": 
+"storage/Items/Camouflage/bp39/FreeBattlePass/Obtainment": 
+"storage/Items/Camouflage/bp39/PaidBattlePass/Obtainment": 
+"avatars/Items/bp38/BundleAvatar/Obtainment": 
+"avatars/Items/bp38/BundleAvatar/Title": 
+"avatars/Items/bp38/FreeBattlePass/Title": 
+"avatars/Items/bp38/PaidBattlePass/Title": 
+"storage/Items/Camouflage/bp38/FreeBattlePass/Obtainment": 
+"storage/Items/Camouflage/bp38/PaidBattlePass/Obtainment": 
 "storage/Items/couponForUnlockCamo_bp_39_ruby_first/Obtainment": 
 "storage/Items/couponForUnlockCamo_bp_39_ruby_fourth/Obtainment": 
 "storage/Items/couponForUnlockCamo_bp_39_ruby_second/Obtainment": 
@@ -5081,9 +5081,9 @@
 "storage/Items/talisman_chest_2023_HBH/Obtainment": 
 "storage/Items/talisman_chest_2023_HBH/Title": 
 "storage/Items/stuffQuest_15battles_Season2_139476/Features": 
-"storage/Items/stuffQuest_15battles_Season2_139476/Title": "Constellation Quest"
-"storage/Items/prx_season_2/Description": "Earn them to buy tanks and tank upgrades in the Constellation Event."
-"storage/Items/prx_season_2/Title": "Fortium Shards"
+"storage/Items/stuffQuest_15battles_Season2_139476/Title": 
+"storage/Items/prx_season_2/Description": 
+"storage/Items/prx_season_2/Title": 
 "storage/Items/item_2023_TBB_1/Description": 
 "storage/Items/item_2023_TBB_1/Features": 
 "storage/Items/item_2023_TBB_1/Obtainment": 
@@ -5187,8 +5187,8 @@
 "avatars/Items/tour_touch/Description": "For those who choose the touchscreen."
 "storage/Items/nov23_draw_secret/Title": "Draw 'Is there a question?'"
 "storage/Items/draw_nov23_jag/Title": "Draw '8,8 cm Pak 43 Jagdtiger'"
-"storage/Items/CustomBG/bp39/Title": "Volcanic Island Profile Background"
-"storage/Items/CustomBG/bp38/Title": "Swampland Profile Background"
+"storage/Items/CustomBG/bp39/Title": 
+"storage/Items/CustomBG/bp38/Title": 
 "storage/Items/reactions_testpack_1/Title": 
 "storage/Items/reactions_testpack_2/Title": 
 "storage/Items/draw_dec23_5/Title": "Draw 'Home werewolf'"
@@ -5285,7 +5285,7 @@
 "storage/Items/Chest_2024_NY_FreeExp_4/Description": 
 "storage/Items/Chest_2024_NY_FreeExp_4/Obtainment": 
 "storage/Items/Chest_2024_NY_FreeExp_4/Title": 
-"storage/Items/Chest_2024_NY_SuperGame/Description": "Shake the Snow Globe to win one of these rare tanks! You’re also guaranteed to find an XM66F Charm among the gifts!"
+"storage/Items/Chest_2024_NY_SuperGame/Description": 
 "storage/Items/Chest_2024_NY_SuperGame/Obtainment": 
 "storage/Items/Chest_2024_NY_SuperGame/Title": 
 "storage/Items/Chest_2024_NY_gold/Description": 
@@ -5294,14 +5294,14 @@
 "storage/Items/Chest_2024_NY_gold2/Description": 
 "storage/Items/Chest_2024_NY_gold2/Obtainment": 
 "storage/Items/Chest_2024_NY_gold2/Title": 
-"storage/Items/proxy_progress_2024_NY/Description": "Currency for receiving the XM66F."
-"storage/Items/proxy_progress_2024_NY/Features": "• For every Snow Globe you shake, you’ll get an XM66F Charm.\n• As soon as you’ve collected %(proxy_currency.amount) Charms, the XM66F will drop from the Snow Globe."
-"storage/Items/proxy_progress_2024_NY/Obtainment": "Drops from Snow Globes."
-"storage/Items/proxy_progress_2024_NY/Title": "XM66F Charm"
-"storage/Items/prx_2024_NY/Description": "Currency during the event."
-"storage/Items/prx_2024_NY/Title": "Fair Ticket"
+"storage/Items/proxy_progress_2024_NY/Description": 
+"storage/Items/proxy_progress_2024_NY/Features": 
+"storage/Items/proxy_progress_2024_NY/Obtainment": 
+"storage/Items/proxy_progress_2024_NY/Title": 
+"storage/Items/prx_2024_NY/Description": 
+"storage/Items/prx_2024_NY/Title": 
 "storage/Items/prx_roll_2024_NY/Description": 
-"storage/Items/prx_roll_2024_NY/Obtainment": "Get Snow Globes by completing the event stages or opening Boxes of Presents using gold or Free XP."
+"storage/Items/prx_roll_2024_NY/Obtainment": 
 "storage/Items/prx_roll_2024_NY/Title": 
 "storage/Items/prx_roll_gold_part_2024_NY/Description": 
 "storage/Items/prx_roll_gold_part_2024_NY/Obtainment": 
@@ -5519,7 +5519,7 @@
 "avatars/Items/bp24_02/FreeBattlePass/ObtainmentShort": "Unlock %(progress) level"
 "avatars/Items/bp24_02/PaidBattlePass/ObtainmentDetailed": "Available with the Special Pass during the Episode 'Cup Summit' in February 2024."
 "avatars/Items/bp24_02/PaidBattlePass/ObtainmentShort": "Unlock %(progress) level"
-"storage/Items/avatar_progressive_bp_24_02_free/Title": "Avatar 'On the Rise'"
+"storage/Items/avatar_progressive_bp_24_02_free/Title": 
 "storage/Items/bp_24_02_avatar_bundle/Obtainment": "Available to buyers of the special bundle during the 'Cup Summit' Episode in February 2024."
 "storage/Items/bp_24_02_avatar_bundle/Title": "Avatar 'It was le-gen-dary!'"
 "storage/Items/bp_24_02_avatar_progressive_paid/Title": "Avatar 'Symbol of Glory'"
@@ -6274,13 +6274,13 @@
 "storage/Items/chest_2024_srr9/Title": "Filigree Container"
 "storage/Items/chest_2024_srr9/Features": "Opens with Chip Cards."
 "storage/Items/prx_2024_srr9_buy/Description": 
-"storage/Items/prx_2024_srr9_buy/Title": "Iron Ingot"
+"storage/Items/prx_2024_srr9_buy/Title": 
 "storage/Items/prx_2024_srr9_talisman/Description": 
 "storage/Items/prx_2024_srr9_talisman/Features": 
 "storage/Items/prx_2024_srr9_talisman/Obtainment": 
 "storage/Items/prx_2024_srr9_talisman/Title": 
 "storage/Items/prx_2024_srr9_win/Description": 
-"storage/Items/prx_2024_srr9_win/Title": "Iron Pretzel"
+"storage/Items/prx_2024_srr9_win/Title": 
 "storage/Items/bp_24_09_avatar_bundle/Obtainment": "Available to buyers of a special bundle during the episode 'Make a mess!' in September 2024."
 "storage/Items/bp_24_09_avatar_bundle/Title": "Avatar 'Who dared?'"
 "storage/Items/bp_24_09_avatar_progressive_free/Title": "Avatar 'Into pieces'"
@@ -9109,8 +9109,8 @@
 "storage/Items/draw_aug26_G_KpfPz_70/Title": "Draw \n\"Spirited Steed\""
 "storage/Items/r183_k_91_pt_chest/Description": "Guaranteed drop:\n• gold boosters;\n• gold;\n• Free XP certificate;\n• XP bonus certificate;\n• XP or credits boosters.<br/><br/>May also contain:\n• consumable cooldown boosters with a 75% drop rate;\n• \"Blitzslav vs. Lizard\" profile background OR \"Double Clamp\" reaction pack OR customization item from the list with an 18.5% drop rate;\n• K-91-PT Tier IX Collector tank destroyer with a 3% drop rate;\n• \"Skalozub\" Legendary camouflage for K-91-PT with a 3% drop rate OR Legendary camouflage from the list with a 4% drop rate each;\n• \"Reptilord\" attachment with a 3% drop rate;\n• \"Annihilator Bear Center\" Hangar item with a 1% drop rate OR Hangar item from the list with a 2% drop rate each;\n• Tankoin with a 0.01% drop rate."
 "storage/Items/r183_k_91_pt_chest/Title": "Armored Lizard Container"
-"storage/Items/r183_k_91_pt_chest_v2/Description": "Guaranteed drop:\n• gold boosters;\n• gold;\n• Free XP certificate;\n• XP bonus certificate;\n• XP or credits boosters.<br/><br/>May also contain:\n• consumable cooldown boosters with a 75% drop rate;\n• \"Blitzslav vs. Lizard\" profile background OR \"Double Clamp\" reaction pack OR customization item from the list with an 18.5% drop rate;\n• K-91-PT Tier IX Collector tank destroyer with a 3% drop rate;\n• \"Skalozub\" Legendary camouflage for K-91-PT with a 3% drop rate OR Legendary camouflage from the list with a 4% drop rate each;\n• \"Reptilord\" attachment with a 3% drop rate;\n• \"Annihilator Bear Center\" Hangar item with a 1% drop rate OR Hangar item from the list with a 2% drop rate each;\n• Tankoin with a 0.01% drop rate."
-"storage/Items/r183_k_91_pt_chest_v2/Title": "Armored Lizard Container"
+"storage/Items/r183_k_91_pt_chest_v2/Description": 
+"storage/Items/r183_k_91_pt_chest_v2/Title": 
 "storage/Items/draw_aug26_F34_ARL_V39_BP/Title": "Draw \n\"Actively Seeking\""
 "storage/Items/proxy_progress_r183_k_91_pt_chest_v2/Description": 
 "storage/Items/proxy_progress_r183_k_91_pt_chest_v2/Features": 

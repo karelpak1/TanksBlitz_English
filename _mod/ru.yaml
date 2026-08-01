@@ -3615,8 +3615,8 @@
 "#vehicle_customization:camouflage/battlepass38_02/Descr": "%(highlight_start)+%(number)%%(highlight_end) to concealment. Install it for Summer, Winter, and Desert maps."
 "#vehicle_customization:camouflage/battlepass38_01/Name": "Eerie Stillness"
 "#vehicle_customization:camouflage/battlepass38_01/Descr": "%(highlight_start)+%(number)%%(highlight_end) to concealment. Install it for Summer, Winter, and Desert maps."
-"#vehicle_customization:camouflage/skin_m_3_y/Name": "Driller"
-"#vehicle_customization:camouflage/skin_m_3_y/Descr": "For the M-III-Yoh. Changes the name in battle to M-III-Yoh Driller.\n%(highlight_start)+%(number)%%(highlight_end) to concealment. Install it for Summer, Winter, and Desert maps."
+"#vehicle_customization:camouflage/skin_m_3_y/Name": 
+"#vehicle_customization:camouflage/skin_m_3_y/Descr": 
 "#vehicle_customization:camouflage/rating_battles_2023/Name": "Powerful Rating"
 "#vehicle_customization:camouflage/rating_battles_2023/Descr": "%(highlight_start)+%(number)%%(highlight_end) to concealment. Install it for Summer, Winter, and Desert maps."
 "#vehicle_customization:camouflage/anim_rating_battles_2023/Name": "Rating Zeal"
@@ -6543,11 +6543,11 @@
 "2023-BTS-RUBY/currency/win/terms": "Тест"
 "2023-BTS-RUBY/currency/quest/terms": "Тест"
 "season_event/Overlay/Header": "How to Get <proxy/> <orange>Power Cells</orange>"
-"season_event_2/StoryName": "Season 2: Constellation"
-"season_event_2/Event/Description": "Get <proxy/> <orange>Fortium Shards</orange> and exchange them for Season tanks and tank upgrades!"
-"season_event_2/Title": "Constellation"
-"season_event_2/Header": "Season 2"
-"season_event_2/Description": "Get <proxy/> <orange>Fortium Shards</orange> and exchange them for Season tanks and tank upgrades!"
+"season_event_2/StoryName": 
+"season_event_2/Event/Description": 
+"season_event_2/Title": 
+"season_event_2/Header": 
+"season_event_2/Description": 
 "2023-TBB/header": "Тест"
 "2023-TBB/currency/terms": "Тест"
 "2023-TBB/ProgressStage/Header": "Тест"
@@ -7815,10 +7815,10 @@
 "BattlePass/OfferScreen/PremiumPass/bp37/Description": "Extra Rewards:<space/><regular><br/>• Gold Vault<space/><br/>• Special Profile Background</regular><br/><br/>Simultaneous Completion of Missions for All Unlocked Weeks<br/><br/>Extra Missions for Faster Progress"
 "BattlePass/Season_37_Ruby/Header": "Тест"
 "BattlePass/OfferScreen/PremiumPass/bp37ruby/Description": "Тест"
-"BattlePass/Season38/Header": "Operation Swampland"
-"BattlePass/OfferScreen/PremiumPass/bp38/Description": "Extra Rewards:<space/><regular><br/>• The Swale Legendary camouflage for the 53TP Markowskiego<space/><br/>• Gold Vault<space/><br/>• Special Profile Background</regular><br/><br/>Simultaneous Completion of Missions for All Unlocked Weeks<br/><br/>Extra Missions for Faster Progress"
-"BattlePass/Season39/Header": "Operation Volcanic Island"
-"BattlePass/OfferScreen/PremiumPass/bp39/Description": "Extra Rewards:<space/><regular><br/>• The Driller Legendary camouflage for the M-III-Yoh<space/><br/>• Gold Vault<space/><br/>• Special Profile Background</regular><br/><br/>Simultaneous Completion of Missions for All Unlocked Weeks<br/><br/>Extra Missions for Faster Progress"
+"BattlePass/Season38/Header": 
+"BattlePass/OfferScreen/PremiumPass/bp38/Description": 
+"BattlePass/Season39/Header": 
+"BattlePass/OfferScreen/PremiumPass/bp39/Description": 
 "BattlePass/Season_38_Ruby/Header": "Тест"
 "BattlePass/OfferScreen/PremiumPass/bp38ruby/Description": "Тест"
 "BattlePass/Season_39_Ruby/Header": "Тест"
@@ -10838,15 +10838,15 @@
 "stuff/snowflake_rare_demo/title": "Silver Snowflake"
 "stuff/snowflake_unique_demo/obtaining": "• Open bonus containers in the CONTAINERS tab of the Store.\n• Open Candy Boxes in the OFFERS tab of the Store during the New Year's Adventure event."
 "stuff/snowflake_unique_demo/title": "Silver Snowflake"
-"storage/Items/Halloween2017/BlueSign/Features": "Premium Account bonus is applied to Ultramarines Emblems, while boosters are not applied."
-"storage/Items/Halloween2017/BlueSign/Obtainment": "• Complete missions and earn Combat XP.\n• You may also find this currency in bonus containers."
-"storage/Items/Halloween2017/BlueSign/Title": "Ultramarines Emblem"
-"storage/Items/Halloween2017/Sign/Description": "Currency for the \"Warhammer 40,000: Macragge's Thunder\" event."
-"storage/Items/Halloween2017/YellowSign/Features": "• Premium Account bonus and boosters are not applied to Imperial Fists Emblems."
-"storage/Items/Halloween2017/YellowSign/Obtainment": "• Cause the most damage in your first 3 victorious battles every day.\n• You may also find this currency in bonus containers."
-"storage/Items/Halloween2017/YellowSign/Title": "Imperial Fists Emblem"
-"storage/Items/SeasonChest/Description": "Includes random rewards from the list."
-"storage/Items/SeasonChest/Title": "Season Container"
+"storage/Items/Halloween2017/BlueSign/Features": 
+"storage/Items/Halloween2017/BlueSign/Obtainment": 
+"storage/Items/Halloween2017/BlueSign/Title": 
+"storage/Items/Halloween2017/Sign/Description": 
+"storage/Items/Halloween2017/YellowSign/Features": 
+"storage/Items/Halloween2017/YellowSign/Obtainment": 
+"storage/Items/Halloween2017/YellowSign/Title": 
+"storage/Items/SeasonChest/Description": 
+"storage/Items/SeasonChest/Title": 
 "NewYear2019Event/Currency/CandyCane/title": 
 "big_april_event/Currencies/BattleProxy": 
 "big_april_event/Currencies/SpecialTaskProxy": 
@@ -10872,9 +10872,9 @@
 "storage/Items/BattleMissionCurrency/Features": 
 "storage/Items/BattleVictoriesCurrency/Features": 
 "storage/Items/BattleVictoriesCurrency/Obtainment": 
-"storage/Items/Birthday_Event/BirthdayProxy/Description": "World of Tanks Blitz is celebrating its birthday!"
-"storage/Items/Birthday_Event/BirthdayProxy/Obtainment": "For each of your first 4 battles during the birthday celebration, you will receive 1 Birthday Cake. Mmm, delicious!"
-"storage/Items/Birthday_Event/BirthdayProxy/Title": "Birthday Cake"
+"storage/Items/Birthday_Event/BirthdayProxy/Description": 
+"storage/Items/Birthday_Event/BirthdayProxy/Obtainment": 
+"storage/Items/Birthday_Event/BirthdayProxy/Title": 
 "storage/Items/DeviceProxy/Description": 
 "storage/Items/DeviceProxy/Title": 
 "storage/Items/Duck_Event/DuckProxy/Description": 
