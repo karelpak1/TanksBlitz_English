@@ -1532,6 +1532,7 @@
 "#entry:social/2FA/EnterProblem": "Need help?"
 "#entry:social/2FA/EnterBackupCode": "Enter backup code"
 "#entry:social/ConfirmationCodeForm/SendAgainAfter": "Request a new code in"
+"Button/ready": "Готово"
 "#battle_tutorial:welcome/header": "Welcome to the training camp!"
 "#battle_tutorial:welcome/comment": "Here you will learn the basic skills required in battle."
 "#battle_tutorial:welcome/tap_hint": "Tap the screen to continue."
@@ -3668,8 +3669,8 @@
 "#vehicle_customization:camouflage/battlepass38_02/Descr": "%(highlight_start)+%(number)%%(highlight_end) to concealment. Install it for Summer, Winter, and Desert maps."
 "#vehicle_customization:camouflage/battlepass38_01/Name": "Eerie Stillness"
 "#vehicle_customization:camouflage/battlepass38_01/Descr": "%(highlight_start)+%(number)%%(highlight_end) to concealment. Install it for Summer, Winter, and Desert maps."
-"#vehicle_customization:camouflage/skin_m_3_y/Name": 
-"#vehicle_customization:camouflage/skin_m_3_y/Descr": 
+"#vehicle_customization:camouflage/skin_m_3_y/Name": "Driller"
+"#vehicle_customization:camouflage/skin_m_3_y/Descr": "For the M-III-Yoh. Changes the name in battle to M-III-Yoh Driller.\n%(highlight_start)+%(number)%%(highlight_end) to concealment. Install it for Summer, Winter, and Desert maps."
 "#vehicle_customization:camouflage/rating_battles_2023/Name": "Powerful Rating"
 "#vehicle_customization:camouflage/rating_battles_2023/Descr": "%(highlight_start)+%(number)%%(highlight_end) to concealment. Install it for Summer, Winter, and Desert maps."
 "#vehicle_customization:camouflage/anim_rating_battles_2023/Name": "Rating Zeal"
@@ -4549,10 +4550,10 @@
 "#achievements:raider_condition": "• This achievement is awarded even if your vehicle was accidentally hit or damaged.\n• Capture points earned in Supremacy are not included."
 "#achievements:scout_condition": "• Detect at least 5 enemy vehicles.\n• Win the battle.\n• The achievement is only awarded once per battle."
 "#achievements:scout_descr": "Detect more enemy vehicles than anyone else in your team."
-"#achievements:sinai_condition": "	• IS\n	• IS-2 shielded\n	• IS-3\n	• IS-3 Defender\n	• IS-4\n	• IS-6\n	• IS-6 Fearless\n	• IS-7\n	• IS-8\n	• ISU-152\n	• Object 244\n	• Object 252U\n	• Object 260\n	• Object 263\n	• Object 268\n	• Object 704\n	• ISU-122S\n	• IS-2 (1945)\n	• IS-2Sh\n	• IS-5\n	• ISU-130\n	• IS-2 Pravda SP\n	• IS-2\n\n• Results achieved in all tanks are added together.\n• Newly received awards are added together."
+"#achievements:sinai_condition": "	• IS\n	• IS-2 shielded\n	• IS-3\n	• IS-3 Defender\n	• IS-4\n	• IS-6\n	• IS-6 Fearless\n	• IS-7\n	• IS-8\n	• ISU-152\n	• Object 244\n	• Object 252U\n	• Object 260\n	• Object 263\n	• Object 268\n	• Object 704\n	• ISU-122S\n	• IS-2 (1945)\n	• IS-2Sh\n	• IS-5\n	• ISU-130\n	• IS-2 Pravda SP\n	• IS-2\n	• IS-8 Taurus\n\n• Results achieved in all tanks are added together.\n• Newly received awards are added together."
 "#achievements:sniper_condition": "• Non-penetrating hits are included.\n• Direct hits on friendly vehicles are not allowed.\n• If two or more players have identical hit ratios, the achievement is awarded to the player with the highest number of hits.\n• If two or more players have identical hit ratios and the same number of hits, the achievement is awarded to the player who earned the most XP for the battle.\n• The achievement is only awarded once per battle."
 "#achievements:steelwall_condition": "• Survive the battle.\n• If two or more players receive the same amount of potential damage, the achievement is awarded to the player with the greatest number of hits.\n• If two or more players receive the same amount of potential damage and an equal number of hits, the achievement is awarded to the player who earned the most XP in the battle.\n• The achievement is only awarded once per battle."
-"#achievements:sturdy_condition": "• Survive the battle."
+"#achievements:sturdy_condition": "• Survive the battle.\n• Crews must not be injured by a ricochet or non-penetrating hit.\n• Modules must not be damaged by a ricochet or non-penetrating hit."
 "#achievements:titleSniper_condition": "• The series is broken by a miss.\n• Every vehicle has its own series that continues to the next battle using the same vehicle.\n• Only the longest series is counted."
 "#achievements:warrior_condition": "• Destroy at least 4 enemy vehicles.\n• If two or more players have destroyed an equal number of vehicles, the achievement is awarded to the player who earned more XP for the battle.\n• The achievement is only awarded once per battle.<br/><br/>If a Tier VI–X tank gets the Top Gun achievement in battle, it also earns more credits:<br/>• Tier VI: 8,000<br/>• Tier VII: 16,000<br/>• Tier VIII: 24,000<br/>• Tier IX: 32,000<br/>• Tier X: 40,000"
 "#achievements:warrior_descr": "Destroy more enemy vehicles than any other player."
@@ -6617,11 +6618,11 @@
 "2023-BTS-RUBY/currency/win/terms": "Тест"
 "2023-BTS-RUBY/currency/quest/terms": "Тест"
 "season_event/Overlay/Header": "How to Get <proxy/> <orange>Power Cells</orange>"
-"season_event_2/StoryName": 
-"season_event_2/Event/Description": 
-"season_event_2/Title": 
-"season_event_2/Header": 
-"season_event_2/Description": 
+"season_event_2/StoryName": "Season 2: Constellation"
+"season_event_2/Event/Description": "Get <proxy/> <orange>Fortium Shards</orange> and exchange them for Season tanks and tank upgrades!"
+"season_event_2/Title": "Constellation"
+"season_event_2/Header": "Season 2"
+"season_event_2/Description": "Get <proxy/> <orange>Fortium Shards</orange> and exchange them for Season tanks and tank upgrades!"
 "2023-TBB/header": "Тест"
 "2023-TBB/currency/terms": "Тест"
 "2023-TBB/ProgressStage/Header": "Тест"
@@ -7452,7 +7453,7 @@
 "Equipment/InfoScreen/EquipmentUsage/UnlockForCredits": "Use credits to unlock slots. Each slot has two equipment options. Only one option can be mounted."
 "#mechanics:title": "Mechanics"
 "TankMechanics/MovableArmor": "Dynamic Armor"
-"TankMechanics/MovableArmorDescription": "Moves armor to cover weak spots in the hull and turret, %(highlight_start)creating additional protection%(highlight_end).\n\n• For the Titan H-Nd, activates %(highlight_start)when HP drops to 50%%(highlight_end).\n• For the Titan-54d, Titan Charioteer, and Titan Strife, activates after the Dynamic Armor System has been used."
+"TankMechanics/MovableArmorDescription": "Передвигаются в уязвимые места корпуса и башни танка и %(highlight_start)создают дополнительную защиту%(highlight_end).\n\n• На Titan H-Nd срабатывают, %(highlight_start)когда запас прочности опускается до 50%%(highlight_end).\n• На Titan-54d срабатывают после активации снаряжения Привод бронелистов."
 "TankMechanics/ImprovedDetection": "Tracer Shells"
 "TankMechanics/ImprovedDetectionDescription": "%(highlight_start)Makes an enemy tank visible to all allies for 20 seconds%(highlight_end) instead of the standard 10.\n\n• When hitting these tanks, makes them visible for 17 seconds: 121B, Char Futur 4, CS-63, ELC AMX-901, HWK 12, KJPZ TIII Jäger, Leopard 1, LKpz.70 K, Rheinmetall Panzerwagen, Type 59, Type 62, WZ-132A, WZ-132-1.\n• Activates upon penetration, non-penetration, and ricochet.\n• Does not activate upon blind hit or splash damage."
 "TankMechanics/InternalTrack": "Emergency Track"
@@ -7538,7 +7539,7 @@
 "Karma/Complaints/UnsportingBehaviour/Description": "Complaint about unsporting conduct in battle."
 "Karma/Complaints/InactivityInBattle/Description": "Complaint about inactivity in battle."
 "Karma/Complaints/MissedBattle/Description": "Complaint about missed tournament battles."
-"Karma/Punishments/OffensiveBehaviour": "Provocative Communication"
+"Karma/Punishments/OffensiveBehaviour": "We blocked your ability to send messages under sections 12.1b and 19.4 of the <link_eula/>. The content you posted in the game is against our <link_code_of_conduct/>. You can see your bans and their expiration dates in the \"My Bans\" section after logging in on the <link_player_support_portal/>. This decision is based on reports by other players and was taken using automated tools. You may appeal to <link_player_support/> or otherwise in accordance with <link_governing_law_and_jurisdiction/> of the EULA."
 "Karma/Punishments/UnsportingBehaviour": "Unsporting Conduct"
 "Karma/Punishments/InactivityInBattle": "Inactivity in Battle"
 "Karma/Punishments/MissedBattle": "Missed a Tournament Battle"
@@ -7944,10 +7945,10 @@
 "BattlePass/OfferScreen/PremiumPass/bp37/Description": "Extra Rewards:<space/><regular><br/>• Gold Vault<space/><br/>• Special Profile Background</regular><br/><br/>Simultaneous Completion of Missions for All Unlocked Weeks<br/><br/>Extra Missions for Faster Progress"
 "BattlePass/Season_37_Ruby/Header": "Тест"
 "BattlePass/OfferScreen/PremiumPass/bp37ruby/Description": "Тест"
-"BattlePass/Season38/Header": 
-"BattlePass/OfferScreen/PremiumPass/bp38/Description": 
-"BattlePass/Season39/Header": 
-"BattlePass/OfferScreen/PremiumPass/bp39/Description": 
+"BattlePass/Season38/Header": "Operation Swampland"
+"BattlePass/OfferScreen/PremiumPass/bp38/Description": "Extra Rewards:<space/><regular><br/>• The Swale Legendary camouflage for the 53TP Markowskiego<space/><br/>• Gold Vault<space/><br/>• Special Profile Background</regular><br/><br/>Simultaneous Completion of Missions for All Unlocked Weeks<br/><br/>Extra Missions for Faster Progress"
+"BattlePass/Season39/Header": "Operation Volcanic Island"
+"BattlePass/OfferScreen/PremiumPass/bp39/Description": "Extra Rewards:<space/><regular><br/>• The Driller Legendary camouflage for the M-III-Yoh<space/><br/>• Gold Vault<space/><br/>• Special Profile Background</regular><br/><br/>Simultaneous Completion of Missions for All Unlocked Weeks<br/><br/>Extra Missions for Faster Progress"
 "BattlePass/Season_38_Ruby/Header": "Тест"
 "BattlePass/OfferScreen/PremiumPass/bp38ruby/Description": "Тест"
 "BattlePass/Season_39_Ruby/Header": "Тест"
@@ -8595,7 +8596,7 @@
 "#preLogin:dialog/repeat": "TRY AGAIN"
 "PreLogin/LestaGamesCopyright": "© Lesta Games 2022-2024. Tanks Blitz game is based on the intellectual property of third parties.\nAll rights to objects of third party rights belong to their legal owners."
 "prelogin/prepermisson_access": "Tanker!\nTo get %(highlight_start)custom offers%(highlight_end) in-store and %(highlight_start)more relevant and engaging ads related to your interests%(highlight_end), tap %(highlight_start)Allow%(highlight_end) on the next screen. You can always change this setting later."
-"Login/NewGame/GameButton": "PLAY NOW"
+"Login/NewGame/GameButton": "START NEW GAME"
 "Login/DividerCaption": "OR"
 "Login/NewGame/LoginButton": "LOG IN"
 "Login/SelectServerCaption": "Server:"
@@ -9789,7 +9790,7 @@
 "Reports/PunishmentNotification/InactivityInBattleContent/Title": "Battles blocked for <t-body_highlighted>%(punishmentTime)</t-body_highlighted>"
 "Reports/PunishmentNotification/InactivityInBattleContent/Description": "If <t-body_highlighted>inactivity in battle</t-body_highlighted> continues, this penalty may be extended"
 "Reports/PunishmentNotification/OffensiveBehaviourContent/Title": "Chat blocked for <t-body_highlighted>%(punishmentTime)</t-body_highlighted>"
-"Reports/PunishmentNotification/OffensiveBehaviourContent/Description": "If <t-body_highlighted>provocative communication</t-body_highlighted> continues, this penalty may be extended"
+"Reports/PunishmentNotification/OffensiveBehaviourContent/Description": "We blocked your ability to send messages under sections 12.1b and 19.4 of the <link_eula/>.<br/>The content you posted in the game is against our <link_code_of_conduct/>.<br/>You can see your bans and their expiration dates in the \"My Bans\" section after logging in on the <link_player_support_portal/>.<br/>This decision is based on reports by other players and was taken using automated tools.<br/>You may appeal to <link_player_support/> or otherwise in accordance with <link_governing_law_and_jurisdiction/> of the EULA."
 "Reports/PunishmentNotification/UnsportingBehaviourContent/Title": "Battles blocked for <t-body_highlighted>%(punishmentTime)</t-body_highlighted>"
 "Reports/PunishmentNotification/UnsportingBehaviourContent/Description": "If <t-body_highlighted>unsporting conduct</t-body_highlighted> continues, this penalty may be extended"
 "notification/Reports/WarningReceived": "The player you reported has received a warning"
@@ -9803,7 +9804,7 @@
 "news/Notification/Reports/WarningNotification/OffensiveBehaviourContent": "You received a warning for <red_text>provocative communication</red_text>. If you continue, you will be temporarily blocked from the chat"
 "news/Notification/Reports/WarningNotification/UnsportingBehaviourContent": "You received a warning for <red_text>unsporting conduct</red_text>. If you continue, you will be temporarily blocked from entering battle"
 "news/Notification/Reports/PunishmentNotification/InactivityInBattleContent": "Battles blocked for <red_text>%(punishmentTime)</red_text>. If <red_text>inactivity in battle</red_text> continues, this penalty may be extended"
-"news/Notification/Reports/PunishmentNotification/OffensiveBehaviourContent": "Chat blocked for <red_text>%(punishmentTime)</red_text>. If <red_text>provocative communication</red_text> continues, this penalty may be extended"
+"news/Notification/Reports/PunishmentNotification/OffensiveBehaviourContent": "Chat blocked for <red_text>%(punishmentTime)</red_text>. We blocked your ability to send messages under sections 12.1b and 19.4 of the <link_eula/>. The content you posted in the game is against our <link_code_of_conduct/>. You can see your bans and their expiration dates in the \"My Bans\" section after logging in on the <link_player_support_portal/>. This decision is based on reports by other players and was taken using automated tools. You may appeal to <link_player_support/> or otherwise in accordance with <link_governing_law_and_jurisdiction/> of the EULA."
 "news/Notification/Reports/PunishmentNotification/UnsportingBehaviourContent": "Battles blocked for <red_text>%(punishmentTime)</red_text>. If <red_text>unsporting conduct</red_text> continues, this penalty may be extended"
 "TankRank/InventoryPanel/Title": "Rank"
 "TankRank/Inventory/Rank/RankPlaceholderTitle": "Ranks and progressions are available on Elite Tier VI-X tanks"
@@ -10982,15 +10983,15 @@
 "stuff/snowflake_rare_demo/title": "Silver Snowflake"
 "stuff/snowflake_unique_demo/obtaining": "• Open bonus containers in the CONTAINERS tab of the Store.\n• Open Candy Boxes in the OFFERS tab of the Store during the New Year's Adventure event."
 "stuff/snowflake_unique_demo/title": "Silver Snowflake"
-"storage/Items/Halloween2017/BlueSign/Features": 
-"storage/Items/Halloween2017/BlueSign/Obtainment": 
-"storage/Items/Halloween2017/BlueSign/Title": 
-"storage/Items/Halloween2017/Sign/Description": 
-"storage/Items/Halloween2017/YellowSign/Features": 
-"storage/Items/Halloween2017/YellowSign/Obtainment": 
-"storage/Items/Halloween2017/YellowSign/Title": 
-"storage/Items/SeasonChest/Description": 
-"storage/Items/SeasonChest/Title": 
+"storage/Items/Halloween2017/BlueSign/Features": "Premium Account bonus is applied to Ultramarines Emblems, while boosters are not applied."
+"storage/Items/Halloween2017/BlueSign/Obtainment": "• Complete missions and earn Combat XP.\n• You may also find this currency in bonus containers."
+"storage/Items/Halloween2017/BlueSign/Title": "Ultramarines Emblem"
+"storage/Items/Halloween2017/Sign/Description": "Currency for the \"Warhammer 40,000: Macragge's Thunder\" event."
+"storage/Items/Halloween2017/YellowSign/Features": "• Premium Account bonus and boosters are not applied to Imperial Fists Emblems."
+"storage/Items/Halloween2017/YellowSign/Obtainment": "• Cause the most damage in your first 3 victorious battles every day.\n• You may also find this currency in bonus containers."
+"storage/Items/Halloween2017/YellowSign/Title": "Imperial Fists Emblem"
+"storage/Items/SeasonChest/Description": "Includes random rewards from the list."
+"storage/Items/SeasonChest/Title": "Season Container"
 "NewYear2019Event/Currency/CandyCane/title": 
 "big_april_event/Currencies/BattleProxy": 
 "big_april_event/Currencies/SpecialTaskProxy": 
@@ -11016,9 +11017,9 @@
 "storage/Items/BattleMissionCurrency/Features": 
 "storage/Items/BattleVictoriesCurrency/Features": 
 "storage/Items/BattleVictoriesCurrency/Obtainment": 
-"storage/Items/Birthday_Event/BirthdayProxy/Description": 
-"storage/Items/Birthday_Event/BirthdayProxy/Obtainment": 
-"storage/Items/Birthday_Event/BirthdayProxy/Title": 
+"storage/Items/Birthday_Event/BirthdayProxy/Description": "World of Tanks Blitz is celebrating its birthday!"
+"storage/Items/Birthday_Event/BirthdayProxy/Obtainment": "For each of your first 4 battles during the birthday celebration, you will receive 1 Birthday Cake. Mmm, delicious!"
+"storage/Items/Birthday_Event/BirthdayProxy/Title": "Birthday Cake"
 "storage/Items/DeviceProxy/Description": 
 "storage/Items/DeviceProxy/Title": 
 "storage/Items/Duck_Event/DuckProxy/Description": 
@@ -11228,10 +11229,10 @@
 "avatars/Items/VictoriesNumber/ObtainmentShort": "Win %(wins) battle(s)"
 "avatars/Items/RassenayHeroesMedal/ObtainmentDetailed": "• Earn Raseiniai Heroes' Medals.\n• All medals received since your account creation are counted."
 "avatars/Items/RassenayHeroesMedal/ObtainmentShort": "Earn %(amount) medal(s)"
-"storage/Items/BattleXPBooster/Rare/Description": 
-"storage/Items/CreditsBooster/Rare/Description": 
-"storage/Items/CrewXPBooster/Rare/Description": 
-"storage/Items/FreeXPBooster/Rare/Description": 
+"storage/Items/BattleXPBooster/Rare/Description": ""
+"storage/Items/CreditsBooster/Rare/Description": ""
+"storage/Items/CrewXPBooster/Rare/Description": ""
+"storage/Items/FreeXPBooster/Rare/Description": ""
 "storage/Items/Avatar/lny2019_v3/Obtainment": 
 "storage/Items/lny19_chest/Description": 
 "storage/Items/lny19_chest/Title": 

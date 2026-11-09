@@ -1,0 +1,2 @@
+"Button/ready": "Готово"
+"TankMechanics/MovableArmorDescription": "Передвигаются в уязвимые места корпуса и башни танка и %(highlight_start)создают дополнительную защиту%(highlight_end).\n\n• На Titan H-Nd срабатывают, %(highlight_start)когда запас прочности опускается до 50%%(highlight_end).\n• На Titan-54d срабатывают после активации снаряжения Привод бронелистов."
