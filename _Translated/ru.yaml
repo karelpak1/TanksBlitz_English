@@ -4044,3 +4044,5 @@
 "#vehicle_customization:camouflage/skin2_f82_amx_m4_mle1949_ter/Name": "Supplier"
 "#european_vehicles:S18_EMIL_1951E1_Custom_short_v2": "Emil I Stirrer"
 "#european_vehicles:S18_EMIL_1951E1_Custom_v2": "Emil I Stirrer"
+"Button/ready": "Ready"
+"TankMechanics/MovableArmorDescription": "Move to vulnerable areas of the tank's hull and turret, %(highlight_start)providing additional protection%(highlight_end).\n\n• On the Titan H-Nd, they activate %(highlight_start)when HP drops to 50%%(highlight_end).\n• On the Titan-54d, they activate after the Armor Plate Drive consumable is used."
