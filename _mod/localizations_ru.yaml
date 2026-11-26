@@ -9598,3 +9598,312 @@
 "avatars/Items/avatar_kpz50t_legendary_anim/Title": "\"Majestic Profile\" Animated Avatar"
 "avatars/Items/avatar_kpz50t_legendary_anim/Description": "Gold looks good on royalty"
 "storage/Items/draw_may25_chestsv2_bf/Title": "Draw \n\"Sweet Loot\""
+"storage/Items/rpu26_chest/Title": "Змееборческий контейнер"
+"storage/Items/rpu26_chest/Description": "Гарантированно содержит:\n• сертификаты на свободный опыт и бонус опыта;\n• два вида бустеров;\n• Талисман Змееборческого контейнера.<br/><br/>Также может содержать:\n• бустеры перезарядки снаряжения с вероятностью 75%;\n• золото с вероятностью 45%;\n• тематическую кастомизацию с вероятностью 18,5%;\n• один из легендарных камуфляжей с вероятностью 10%;\n• один из атрибутов Ангара с вероятностью 5%;\n• коллекционную ПТ-САУ IX уровня К-91-ПТ или средний премиум танк VIII уровня Объект 590 с вероятностью 2% для каждой машины;\n• обвес «Рептилорд» с вероятностью 3%;\n• Танкоин с вероятностью 0,01%."
+"storage/Items/proxy_chest_rpy26/Currency/Title": "Талисман Змееборческого контейнера"
+"storage/Items/proxy_chest_rpy26/Currency/Description": "Валюта для получения Змееборческого контейнера"
+"storage/Items/proxy_chest_rpy26/Currency/Obtainment": "Открывай Змееборческие контейнеры"
+"storage/Items/proxy_chest_rpy26/Currency/Features": "• Выпадает с каждым открытием контейнера\n• Собрав 10 Талисманов, ты получишь Змееборческий контейнер"
+"avatars/Items/avatar_kp_7p_legendary/Title": "Аватар «Свой среди своих»"
+"avatars/Items/avatar_kp_7p_legendary/Description": "Верит в команду!"
+"storage/Items/mega_mystery_box_w26/Description": "Гарантированно содержит:\n• золото;\n• сертификаты на свободный опыт и бонус опыта;\n• бустеры;\n• контейнер «Яркий образ»;\n• дни премиум аккаунта.<br/><br/>Также может содержать:\n• один из предметов для прохождения новогодних активностей с вероятностью 50%;\n• свободный опыт с вероятностью 39%;\n• обвес «Килл-визор» с вероятностью 35%;\n• кредиты с вероятностью 21%;\n• один из контейнеров («Страж морей», «Ну мёд!», «Супернова») или Мистификат с вероятностью 5% каждый;\n• Танкоин с вероятностью 0,05%;\n• Пламенный ключ от копилки «Тайник рыцаря» с вероятностью 0,01%."
+"storage/Items/mega_mystery_box_w26/Title": "Контейнер «Зимняя мегамистика»"
+"storage/Items/mystery_box_w26_1lvl/Description": "Гарантированно содержит:\n• золото;\n• Талисман контейнера «Зимняя мистика II»;\n• сертификаты на свободный опыт и бонус опыта.<br/><br/>Также может содержать:\n• свободный опыт с вероятностью 20%;\n• кредиты с вероятностью 10%;\n• один из предметов для прохождения новогодних активностей с вероятностью 10%;\n• контейнер «Зимняя мистика II» с вероятностью 6%;\n• Мистический сертификат с вероятностью 5%;\n• контейнер «Зимняя мистика III» с вероятностью 3%."
+"storage/Items/mystery_box_w26_1lvl/Title": "Контейнер «Зимняя мистика I»"
+"storage/Items/mystery_box_w26_2lvl/Description": "Гарантированно содержит:\n• золото;\n• Талисман контейнера «Зимняя мистика III»;\n• сертификаты на свободный опыт и бонус опыта;\n• дни премиум аккаунта.<br/><br/>Также может содержать:\n• свободный опыт с вероятностью 20%;\n• один из предметов для прохождения новогодних активностей с вероятностью 20%;\n• кредиты с вероятностью 15%;\n• контейнер «Зимняя мистика III» с вероятностью 6%;\n• Мистический сертификат с вероятностью 5%;\n• Танкоин с вероятностью 0,01%."
+"storage/Items/mystery_box_w26_2lvl/Title": "Контейнер «Зимняя мистика II»"
+"storage/Items/mystery_box_w26_3lvl/Description": "Гарантированно содержит:\n• золото;\n• Талисман контейнера «Зимняя мистика III»;\n• сертификаты на свободный опыт и бонус опыта;\n• дни премиум аккаунта.<br/><br/>Также может содержать:\n• один из предметов для прохождения новогодних активностей с вероятностью 30%;\n• кредиты с вероятностью 20%;\n• свободный опыт с вероятностью 20%;\n• контейнер «Зимняя мегамистика» с вероятностью 10%;\n• Мистический сертификат с вероятностью 7%;\n• Танкоин с вероятностью 0,02%."
+"storage/Items/mystery_box_w26_3lvl/Title": "Контейнер «Зимняя мистика III»"
+"storage/Items/reactions_w2627/Description": 
+"storage/Items/reactions_w2627/Obtainment": 
+"storage/Items/reactions_w2627/Title": 
+"storage/Items/prx_mystery_box_w26_2lvl/Description": "Валюта для получения контейнера «Зимняя мистика II»"
+"storage/Items/prx_mystery_box_w26_2lvl/Features": "• Выпадает с каждым открытием контейнера\n• Собрав 7 Талисманов, ты получишь контейнер «Зимняя мистика II»"
+"storage/Items/prx_mystery_box_w26_2lvl/Obtainment": "Открывай контейнеры «Зимняя мистика I»"
+"storage/Items/prx_mystery_box_w26_2lvl/Title": "Талисман контейнера «Зимняя мистика II»"
+"storage/Items/prx_mystery_box_w26_3lvl/Description": "Валюта для получения контейнера «Зимняя мистика III»"
+"storage/Items/prx_mystery_box_w26_3lvl/Features": "• Выпадает с каждым открытием контейнера\n• Собрав 7 Талисманов, ты получишь контейнер «Зимняя мистика III»"
+"storage/Items/prx_mystery_box_w26_3lvl/Obtainment": "Открывай контейнеры «Зимняя мистика II» и «Зимняя мистика III»"
+"storage/Items/prx_mystery_box_w26_3lvl/Title": "Талисман контейнера «Зимняя мистика III»"
+"storage/Items/piggybank_wmys_26/Title": "Тайник рыцаря"
+"storage/Items/prx_piggybank_wmys_26/Description": "• Открывает копилку «Тайник рыцаря»\n• Можно обменять на 20 000 золота"
+"storage/Items/prx_piggybank_wmys_26/Obtainment": "Ищи в контейнерах «Зимняя мегамистика»"
+"storage/Items/prx_piggybank_wmys_26/Title": "Пламенный ключ"
+"storage/Items/prx_2027_SchwererTactor/Description": "Открывает доступ к Штабным тайникам за победы на Schwerertraktor"
+"storage/Items/prx_2027_SchwererTactor/Features": "• Каждую неделю доступно 7 Спецключей S.Tr.\n• После победного боя на Schwerertraktor один Спецключ S.Tr. списывается и ты получаешь Штабной тайник.\n• Каждый понедельник количество Спецключей S.Tr. восстанавливается до 7. Например, если к концу недели использован только один Спецключ S.Tr., в начале следующей ты получишь один новый.\n• Победы на Schwerertraktor приносят Штабные тайники до конца 2027 года."
+"storage/Items/prx_2027_SchwererTactor/Obtainment": "Начисляется владельцам Schwerertraktor, сыгравшим хотя бы один бой на этом танке"
+"storage/Items/prx_2027_SchwererTactor/Title": "Спецключ S.Tr."
+"storage/Items/certificate_Ch56_BZ_74_1/Obtainment": 
+"storage/Items/w27l1/Description": 
+"storage/Items/w27l1/Title": 
+"storage/Items/w27l10/Description": 
+"storage/Items/w27l10/Title": 
+"storage/Items/w27l11/Description": 
+"storage/Items/w27l11/Title": 
+"storage/Items/w27l12/Description": 
+"storage/Items/w27l12/Title": 
+"storage/Items/w27l13/Description": 
+"storage/Items/w27l13/Title": 
+"storage/Items/w27l14/Description": 
+"storage/Items/w27l14/Title": 
+"storage/Items/w27l15/Description": 
+"storage/Items/w27l15/Title": 
+"storage/Items/w27l16/Description": 
+"storage/Items/w27l16/Title": 
+"storage/Items/w27l17/Description": 
+"storage/Items/w27l17/Title": 
+"storage/Items/w27l18/Description": 
+"storage/Items/w27l18/Title": 
+"storage/Items/w27l19/Description": 
+"storage/Items/w27l19/Title": 
+"storage/Items/w27l2/Description": 
+"storage/Items/w27l2/Title": 
+"storage/Items/w27l20/Description": 
+"storage/Items/w27l20/Title": 
+"storage/Items/w27l21/Description": 
+"storage/Items/w27l21/Title": 
+"storage/Items/w27l22/Description": 
+"storage/Items/w27l22/Title": 
+"storage/Items/w27l23/Description": 
+"storage/Items/w27l23/Title": 
+"storage/Items/w27l24/Description": 
+"storage/Items/w27l24/Title": 
+"storage/Items/w27l25/Description": 
+"storage/Items/w27l25/Title": 
+"storage/Items/w27l26/Description": 
+"storage/Items/w27l26/Title": 
+"storage/Items/w27l27/Description": 
+"storage/Items/w27l27/Title": 
+"storage/Items/w27l28/Description": 
+"storage/Items/w27l28/Title": 
+"storage/Items/w27l29/Description": 
+"storage/Items/w27l29/Title": 
+"storage/Items/w27l3/Description": 
+"storage/Items/w27l3/Title": 
+"storage/Items/w27l30/Description": 
+"storage/Items/w27l30/Title": 
+"storage/Items/w27l30t/Obtainment": 
+"storage/Items/w27l4/Description": 
+"storage/Items/w27l4/Title": 
+"storage/Items/w27l5/Description": 
+"storage/Items/w27l5/Title": 
+"storage/Items/w27l6/Description": 
+"storage/Items/w27l6/Title": 
+"storage/Items/w27l7/Description": 
+"storage/Items/w27l7/Title": 
+"storage/Items/w27l8/Description": 
+"storage/Items/w27l8/Title": 
+"storage/Items/w27l9/Description": 
+"storage/Items/w27l9/Title": 
+"storage/Items/hdecor_tp_hockey_cover/Description": "Бьёмся за каждый сантиметр льда<br/><br/>• Устанавливается в слот Ангара\n• Не отображается в специальных праздничных Ангарах"
+"storage/Items/hdecor_tp_hockey_cover/Title": "Атрибут Ангара «Хоккейная площадка»"
+"storage/Items/chest_2027_NY_remove_2/Description": "С вероятностью 1,5% содержит Модель Снежного шара ЛИБО внутри может оказаться Ларец с игрушками, золото, бустеры, части сертификатов на танки или различная кастомизация.<br/><br/>Чем выше уровень Праздничной коробки, тем больше вероятность выпадения Модели Снежного шара!"
+"storage/Items/chest_2027_NY_remove_2/Title": "Праздничная коробка II"
+"storage/Items/item_2027_NYBR_collectable_4/Features": "Оставь его на память в Хранилище или обменяй на 3 бустера перезарядки снаряжения, 3 бустера свободного опыта и 3 бустера кредитов"
+"storage/Items/chest_2027_NY_remove_3/Description": "С вероятностью 2% содержит Модель Снежного шара ЛИБО внутри может оказаться Ларец с игрушками, золото, бустеры, части сертификатов на танки или различная кастомизация.<br/><br/>Чем выше уровень Праздничной коробки, тем больше вероятность выпадения Модели Снежного шара!"
+"storage/Items/chest_2027_NY_remove_3/Title": "Праздничная коробка III"
+"storage/Items/chest_2027_NY_remove_4/Description": "С вероятностью 2,5% содержит Модель Снежного шара ЛИБО внутри может оказаться Ларец с игрушками, золото, бустеры, части сертификатов на танки или различная кастомизация.<br/><br/>Чем выше уровень Праздничной коробки, тем больше вероятность выпадения Модели Снежного шара!"
+"storage/Items/chest_2027_NY_remove_4/Title": "Праздничная коробка IV"
+"storage/Items/chest_2027_NY_remove_5/Description": "С вероятностью 3% содержит Модель Снежного шара ЛИБО внутри может оказаться Ларец с игрушками, золото, бустеры, части сертификатов на танки или различная кастомизация.<br/><br/>Чем выше уровень Праздничной коробки, тем больше вероятность выпадения Модели Снежного шара!"
+"storage/Items/chest_2027_NY_remove_5/Title": "Праздничная коробка V"
+"storage/Items/chest_2027_NY_snowball_lvl_2/Description": "Потряси его как следует, чтобы выиграть один из танков IX–X уровней. Если повезёт, тебе достанется новый танк X уровня Schwerertraktor!<br/><br/>Помимо танка из каждого Снежного шара II гарантированно выпадает Киллометровый талисман.<br/><br/>Обрати внимание: после каждого пятого открытия вероятность выпадения Schwerertraktor возрастает — максимально до 10%."
+"storage/Items/chest_2027_NY_snowball_lvl_2/Features": "Чтобы получить подарок, тебе понадобится Модель Снежного шара. Ищи её на этапе события «Новогодняя встряска», а ещё в Драгоценных и Праздничных коробках"
+"storage/Items/chest_2027_NY_snowball_lvl_2/Title": "Снежный шар II"
+"storage/Items/chest_2027_SchwererTactor/Description": "Гарантированно содержит золото, а ещё кредиты или свободный опыт.<br/><br/>Также с вероятностью 10% может содержать кастомизацию из списка."
+"storage/Items/chest_2027_SchwererTactor/Title": "Штабной тайник"
+"storage/Items/chest_2027_SchwererTraktor/Description": 
+"storage/Items/chest_2027_SchwererTraktor/Title": 
+"storage/Items/prx_2027_SchwererTraktor/Description": 
+"storage/Items/prx_2027_SchwererTraktor/Features": 
+"storage/Items/prx_2027_SchwererTraktor/Obtainment": 
+"storage/Items/prx_2027_SchwererTraktor/Title": 
+"storage/Items/item_2027_NYBR_charcoal/Description": "Ты точно хорошо себя вёл в этом году?"
+"storage/Items/item_2027_NYBR_charcoal/Features": "Оставь его на память в Хранилище или обменяй на 1 кредит (да-да, это не ошибка)"
+"storage/Items/item_2027_NYBR_charcoal/Obtainment": "Один из сюрпризов в режиме «Зимние вышибалы»"
+"storage/Items/item_2027_NYBR_charcoal/Title": "Коллекционный предмет «Уголёк»"
+"storage/Items/item_2027_NYBR_collectable_1/Description": "В сладкой глазури"
+"storage/Items/item_2027_NYBR_collectable_1/Features": "Оставь его на память в Хранилище или обменяй на 3 бустера перезарядки снаряжения"
+"storage/Items/item_2027_NYBR_collectable_1/Obtainment": "Один из сюрпризов в режиме «Зимние вышибалы»"
+"storage/Items/item_2027_NYBR_collectable_1/Title": "Коллекционный предмет «Пряничная конфетка»"
+"storage/Items/item_2027_NYBR_collectable_2/Description": "Согревает имбирным теплом"
+"storage/Items/item_2027_NYBR_collectable_2/Features": "Оставь его на память в Хранилище или обменяй на 3 бустера свободного опыта"
+"storage/Items/item_2027_NYBR_collectable_2/Obtainment": "Один из сюрпризов в режиме «Зимние вышибалы»"
+"storage/Items/item_2027_NYBR_collectable_2/Title": "Коллекционный предмет «Пряничная варежка»"
+"storage/Items/item_2027_NYBR_collectable_3/Description": "С ароматом мёда и Нового года"
+"storage/Items/item_2027_NYBR_collectable_3/Features": "Оставь его на память в Хранилище или обменяй на 3 бустера кредитов"
+"storage/Items/item_2027_NYBR_collectable_3/Obtainment": "Один из сюрпризов в режиме «Зимние вышибалы»"
+"storage/Items/item_2027_NYBR_collectable_3/Title": "Коллекционный предмет «Пряничная ёлочка»"
+"storage/Items/item_2027_NYBR_collectable_4/Description": "Не ешь — это на Новый год!"
+"storage/Items/item_2027_NYBR_collectable_4/Obtainment": "Один из сюрпризов в режиме «Зимние вышибалы»"
+"storage/Items/item_2027_NYBR_collectable_4/Title": "Коллекционный предмет «Пряничный набор»"
+"storage/Items/bp_26_12_avatar_bundle/Obtainment": "Доступен покупателям особого набора во время Эпизода «Посвящение в рыцари» в декабре 2026 г."
+"storage/Items/bp_26_12_avatar_bundle/Title": "Аватар «Сэр Крякалот»"
+"storage/Items/bp_26_12_avatar_progressive_free/Title": "Аватар «Рыцарский арсенал»"
+"storage/Items/bp_26_12_avatar_progressive_paid/Title": "Аватар «Королевский двор»"
+"storage/Items/bp_26_12_couponForUnlockCamo/Obtainment": "Доступен с базовым или Особым пропуском во время Эпизода «Посвящение в рыцари» в декабре 2026 г."
+"storage/Items/bp_26_12_couponForUnlockCamo_3/Obtainment": "Доступен с Особым пропуском во время Эпизода «Посвящение в рыцари» в декабре 2026 г."
+"storage/Items/bp_26_12_profile_skin/Title": "Фон профиля «Посвящение в рыцари»"
+"avatars/Items/bp26_12/PaidBattlePass/ObtainmentShort": "Открой %(progress) уровень"
+"avatars/Items/bp26_12/PaidBattlePass/ObtainmentDetailed": "Доступен с Особым пропуском во время Эпизода «Посвящение в рыцари» в декабре 2026 г."
+"avatars/Items/bp26_12/FreeBattlePass/ObtainmentShort": "Открой %(progress) уровень"
+"avatars/Items/bp26_12/FreeBattlePass/ObtainmentDetailed": "Доступен с базовым пропуском во время Эпизода «Посвящение в рыцари» в декабре 2026 г."
+"storage/Items/chest_2027_ny_long_snowflake/Description": "Гарантированно содержат:\n• Талисман броненосца;\n• два вида бустеров.<br/><br/>Внутри также могут оказаться другие подарки, среди которых лёгкий премиум танк VIII уровня Персиваль Достойный, контейнеры, золото, Билетик на Стрелковый двор и легендарный камуфляж «Броненосец» для Schwerertraktor."
+"storage/Items/chest_2027_ny_long_snowflake/Title": "Волшебные куранты"
+"storage/Items/chest_2027_ny_long_ticket/Description": "Гарантированно содержат:\n• от 1 до 3 случайных ёлочных игрушек;\n• бустеры.<br/><br/>Также могут содержать:\n• до 2 коллекционных предметов «Стражник» или золото с вероятностью 40%;\n• Ресурсный контейнер I, II, III, IV или Мегаконтейнер с вероятностью 25%;\n• танк из списка с вероятностью 3%."
+"storage/Items/chest_2027_ny_long_ticket/Obtainment": "Награда со Стрелкового двора в событии «Огни замка»"
+"storage/Items/chest_2027_ny_long_ticket/Title": "Охотничьи трофеи"
+"storage/Items/chest_2027_ny_long_toy/Description": "Содержит от 1 до 3 случайных ёлочных игрушек"
+"storage/Items/chest_2027_ny_long_toy/Obtainment": "Ищи среди наград в новогодних активностях"
+"storage/Items/chest_2027_ny_long_toy/Title": "Ларец с игрушками"
+"storage/Items/chest_reward_2027_ny_long_1/Description": "• Награда за достижение 1-го уровня праздника в событии «Огни замка»\n• Содержит 3 сертификата на бонус опыта ×3, 3 Ресурсных контейнера I и 3 контейнера «Собери их все!»"
+"storage/Items/chest_reward_2027_ny_long_1/Title": "Сундучок I"
+"storage/Items/chest_reward_2027_ny_long_2/Description": "• Награда за достижение 2-го уровня праздника в событии «Огни замка»\n• Содержит 10 бустеров перезарядки снаряжения, 5 сертификатов на свободный опыт, 3 Ресурсных контейнера II и Китайский контейнер"
+"storage/Items/chest_reward_2027_ny_long_2/Title": "Сундучок II"
+"storage/Items/chest_reward_2027_ny_long_3/Description": "• Награда за достижение 3-го уровня праздника в событии «Огни замка»\n• Содержит тяжёлый коллекционный танк VI уровня КВ-2, коллекционный предмет «Рыцарский замок», 10 бустеров свободного опыта и Ресурсный контейнер III"
+"storage/Items/chest_reward_2027_ny_long_3/Title": "Сундучок III"
+"storage/Items/chest_reward_2027_ny_long_4/Description": "• Награда за достижение 4-го уровня праздника в событии «Огни замка»\n• Содержит атрибут Ангара «Мейстер Филин», 10 бустеров золота и Мегаконтейнер"
+"storage/Items/chest_reward_2027_ny_long_4/Title": "Сундучок IV"
+"storage/Items/chest_reward_2027_ny_long_5/Description": "• Награда за достижение 5-го уровня праздника в событии «Огни замка»\n• Содержит анимированный фон профиля «Расправив крылья», 3 дня премиум аккаунта и Мистический сертификат"
+"storage/Items/chest_reward_2027_ny_long_5/Title": "Сундучок V"
+"storage/Items/chest_2027_NY_gold_1/Description": "Гарантированно содержит 2 Короны.<br/><br/>Внутри также могут оказаться различные ресурсы, кастомизация, Ларец с игрушками, Модель Снежного шара и другие подарки."
+"storage/Items/chest_2027_NY_gold_1/Obtainment": "Открывается за золото"
+"storage/Items/chest_2027_NY_gold_1/Title": "Драгоценная коробка"
+"storage/Items/chest_2027_NY_remove_1/Description": "С вероятностью 1% содержит Модель Снежного шара ЛИБО внутри может оказаться Ларец с игрушками, золото, бустеры, части сертификатов на танки или различная кастомизация.<br/><br/>Чем выше уровень Праздничной коробки, тем больше вероятность выпадения Модели Снежного шара!"
+"storage/Items/chest_2027_NY_remove_1/Obtainment": "Открывается за Чеканные монеты"
+"storage/Items/chest_2027_NY_remove_1/Title": "Праздничная коробка I"
+"storage/Items/chest_2027_NY_snowball_lvl_1/Description": "Потряси его как следует, чтобы выиграть один из танков VIII–X уровней. Если повезёт, тебе достанется новый танк X уровня Orso или Schwerertraktor!<br/><br/>Помимо танка из каждого Снежного шара I гарантированно выпадает Талисман Orso."
+"storage/Items/chest_2027_NY_snowball_lvl_1/Features": "Чтобы получить подарок, тебе понадобится Модель Снежного шара. Ищи её на этапе события «Новогодняя встряска», а ещё в Драгоценных и Праздничных коробках"
+"storage/Items/chest_2027_NY_snowball_lvl_1/Title": "Снежный шар I"
+"storage/Items/chest_2027_NY_snowball_lvl_2_1/Description": 
+"storage/Items/chest_2027_NY_snowball_lvl_2_1/Features": 
+"storage/Items/chest_2027_NY_snowball_lvl_2_1/Title": 
+"storage/Items/chest_2027_NY_snowball_lvl_2_2/Description": 
+"storage/Items/chest_2027_NY_snowball_lvl_2_2/Features": 
+"storage/Items/chest_2027_NY_snowball_lvl_2_2/Title": 
+"storage/Items/chest_2027_NY_snowball_lvl_2_3/Description": 
+"storage/Items/chest_2027_NY_snowball_lvl_2_3/Features": 
+"storage/Items/chest_2027_NY_snowball_lvl_2_3/Title": 
+"storage/Items/chest_2027_NY_snowball_lvl_2_4/Description": 
+"storage/Items/chest_2027_NY_snowball_lvl_2_4/Features": 
+"storage/Items/chest_2027_NY_snowball_lvl_2_4/Title": 
+"storage/Items/chest_2027_NY_snowball_lvl_2_5/Description": 
+"storage/Items/chest_2027_NY_snowball_lvl_2_5/Features": 
+"storage/Items/chest_2027_NY_snowball_lvl_2_5/Title": 
+"storage/Items/anim_avatar_2027_NY/Description": "Яства оказались весьма жгучими"
+"storage/Items/anim_avatar_2027_NY/Title": "Анимированный аватар «Огнедышащий»"
+"storage/Items/prx_2027_NY_bell/Description": "Валюта события «Новогодняя встряска»"
+"storage/Items/prx_2027_NY_bell/Title": "Корона"
+"storage/Items/prx_2027_NY_remove/Description": "• Валюта, которую можно получить в обмен на ресурсы в Монетном дворе события «Новогодняя встряска»\n• Открывает Праздничную коробку\n• По завершении события Чеканные монеты будут списаны с компенсацией 1 000 кредитов за каждую"
+"storage/Items/prx_2027_NY_remove/Title": "Чеканная монета"
+"storage/Items/reactions_2027_NY/Description": "Лайкни или сожги"
+"storage/Items/reactions_2027_NY/Obtainment": "Награда в различных игровых активностях"
+"storage/Items/reactions_2027_NY/Title": "Пак реакций «Просто чума»"
+"storage/Items/talisman_2027_NY_snowball_lvl_1/Description": "Валюта для получения танка Orso"
+"storage/Items/talisman_2027_NY_snowball_lvl_1/Features": "Собрав 10 Талисманов, ты получишь Orso. При этом уровень Снежного шара повысится до следующего"
+"storage/Items/talisman_2027_NY_snowball_lvl_1/Obtainment": "Выпадает из Снежного шара I"
+"storage/Items/talisman_2027_NY_snowball_lvl_1/Title": "Талисман Orso"
+"storage/Items/talisman_set_token_2027_NY_part/Description": "Позволяет получить обвес «Киллометр»"
+"storage/Items/talisman_set_token_2027_NY_part/Features": "Собрав 10 Талисманов, ты получишь обвес «Киллометр»"
+"storage/Items/talisman_set_token_2027_NY_part/Obtainment": "Выпадает из Снежного шара II"
+"storage/Items/talisman_set_token_2027_NY_part/Title": "Киллометровый талисман"
+"storage/Items/couponForUnlockCamo_2027_ny_long/Description": 
+"storage/Items/couponForUnlockCamo_2027_ny_long/Features": 
+"storage/Items/couponForUnlockCamo_2027_ny_long/Title": 
+"storage/Items/hdecor_2027_ny_long/Description": "Хранитель знаний<br/><br/>• Устанавливается в слот Ангара\n• Не отображается в специальных праздничных Ангарах"
+"storage/Items/hdecor_2027_ny_long/Title": "Атрибут Ангара «Мейстер Филин»"
+"storage/Items/item_2027_ny_long_1/Description": "Крепкие стены, надёжно укрывающие сокровища"
+"storage/Items/item_2027_ny_long_1/Features": "Оставь его на память в Хранилище или обменяй на 1 000 золота"
+"storage/Items/item_2027_ny_long_1/Obtainment": "Награда из Сундучка III"
+"storage/Items/item_2027_ny_long_1/Title": "Коллекционный предмет «Рыцарский замок»"
+"storage/Items/item_2027_ny_long_2/Description": "Пока он на посту — покой замка нерушим"
+"storage/Items/item_2027_ny_long_2/Features": "Оставь его на память в Хранилище или обменяй на 50 золота"
+"storage/Items/item_2027_ny_long_2/Obtainment": "Награда со Стрелкового двора в событии «Огни замка»"
+"storage/Items/item_2027_ny_long_2/Title": "Коллекционный предмет «Стражник»"
+"storage/Items/profile_skin_anim_2027_ny_long/Description": "Дивное мастерство"
+"storage/Items/profile_skin_anim_2027_ny_long/Title": "Анимированный фон профиля «Расправив крылья»"
+"storage/Items/prx_2027_ny_long_first_degree/Description": "Понадобится, чтобы раскрыть «Секреты мастерства» у Мейстера Филина в событии «Огни замка»"
+"storage/Items/prx_2027_ny_long_first_degree/Title": "Флажок 1 степени"
+"storage/Items/prx_2027_ny_long_master/Description": "Понадобится, чтобы раскрыть «Секреты мастерства» у Мейстера Филина в событии «Огни замка»"
+"storage/Items/prx_2027_ny_long_master/Title": "Флажок Мастера"
+"storage/Items/prx_2027_ny_long_snowflake/Description": "• Понадобится, чтобы завести Волшебные куранты в событии «Огни замка»\n• Можно получить в обмен на ёлочные игрушки и в режиме «Зимние вышибалы»"
+"storage/Items/prx_2027_ny_long_snowflake/Title": "Заводной ключик"
+"storage/Items/prx_2027_ny_long_third_degree/Description": "Понадобится, чтобы раскрыть «Секреты мастерства» у Мейстера Филина в событии «Огни замка»"
+"storage/Items/prx_2027_ny_long_third_degree/Title": "Флажок 3 степени"
+"storage/Items/prx_2027_ny_long_ticket/Description": "• Позволяет начать охоту на Стрелковом дворе в событии «Огни замка»\n• По завершении события Билетики будут списаны с компенсацией 1 000 кредитов за каждый"
+"storage/Items/prx_2027_ny_long_ticket/Title": "Билетик"
+"storage/Items/prx_2027_ny_long_two_degree/Description": "Понадобится, чтобы раскрыть «Секреты мастерства» у Мейстера Филина в событии «Огни замка»"
+"storage/Items/prx_2027_ny_long_two_degree/Title": "Флажок 2 степени"
+"storage/Items/prx_hangar_2027_ny_long/Title": 
+"storage/Items/skin_token_2027_ny_long/Description": 
+"storage/Items/skin_token_2027_ny_long/Title": 
+"storage/Items/talisman_2027_ny_long/Description": "Валюта для получения легендарного камуфляжа «Броненосец» для Schwerertraktor"
+"storage/Items/talisman_2027_ny_long/Features": "• Выпадает с каждым открытием Волшебных курантов\n• Собрав 50 Талисманов броненосца, ты получишь легендарный камуфляж «Броненосец» для Schwerertraktor"
+"storage/Items/talisman_2027_ny_long/Obtainment": "Награда из Волшебных курантов"
+"storage/Items/talisman_2027_ny_long/Title": "Талисман броненосца"
+"storage/Items/toy_common_2027_ny_long/Description": "• Украшай ёлку в событии «Огни замка»\n• 5 «Снежинок» можно обменять на 1 «Лошадку»"
+"storage/Items/toy_common_2027_ny_long/Title": "Ёлочная игрушка «Снежинка»"
+"storage/Items/toy_legendary_2027_ny_long/Description": "Украшай ёлку в событии «Огни замка»"
+"storage/Items/toy_legendary_2027_ny_long/Title": "Ёлочная игрушка «Золотая корона»"
+"storage/Items/toy_rare_2027_ny_long/Description": "• Украшай ёлку в событии «Огни замка»\n• 5 «Лошадок» можно обменять на 1 «Дракошу»"
+"storage/Items/toy_rare_2027_ny_long/Title": "Ёлочная игрушка «Лошадка»"
+"storage/Items/toy_unique_2027_ny_long/Description": "• Украшай ёлку в событии «Огни замка»\n• 3 «Дракоши» можно обменять на 1 «Золотую корону»"
+"storage/Items/toy_unique_2027_ny_long/Title": "Ёлочная игрушка «Дракоша»"
+"storage/Items/draw_nov26_cosmo/Title": "Розыгрыш \n«Ярче звёзд»"
+"storage/Items/chest_german_tanks_xl_26/Title": "Немецкий контейнер XL"
+"storage/Items/chest_german_tanks_xl_26/Description": "Гарантированно содержит:\n• бустеры кредитов или опыта;\n• сертификаты на свободный опыт и бонус опыта.<br/><br/>Также может содержать:\n• золото с вероятностью 60%;\n• бустеры золота с вероятностью 60%;\n• Особый сертификат немецкого танка с вероятностью 15%."
+"storage/Items/guarante_drop_token_german_26/Features": "Если у тебя есть все танки из списка, ты получишь компенсацию 5 000 золота"
+"storage/Items/guarante_drop_token_german_26/Title": "Особый сертификат немецкого танка"
+"storage/Items/guarante_drop_token_german_26/Description": "Позволяет получить немецкий танк из списка, которого нет у тебя в Ангаре"
+"storage/Items/guarante_drop_token_german_26/Obtainment": "Открывай Немецкие контейнеры XL"
+"storage/Items/chest_europe_tanks_xl_26/Title": "Европейский контейнер XL"
+"storage/Items/chest_europe_tanks_xl_26/Description": "Гарантированно содержит:\n• бустеры кредитов или опыта;\n• сертификаты на свободный опыт и бонус опыта.<br/><br/>Также может содержать:\n• золото с вероятностью 60%;\n• бустеры золота с вероятностью 60%;\n• Особый сертификат европейского танка с вероятностью 15%."
+"storage/Items/guarante_drop_token_eu_26/Features": "Если у тебя есть все танки из списка, ты получишь компенсацию 5 000 золота"
+"storage/Items/guarante_drop_token_eu_26/Title": "Особый сертификат европейского танка"
+"storage/Items/guarante_drop_token_eu_26/Description": "Позволяет получить европейский танк из списка, которого нет у тебя в Ангаре"
+"storage/Items/guarante_drop_token_eu_26/Obtainment": "Открывай Европейские контейнеры XL"
+"storage/Items/chest_usa_tanks_xl_26/Title": "Американский контейнер XL"
+"storage/Items/chest_usa_tanks_xl_26/Description": "Гарантированно содержит:\n• бустеры кредитов или опыта;\n• сертификаты на свободный опыт и бонус опыта.<br/><br/>Также может содержать:\n• золото с вероятностью 60%;\n• бустеры золота с вероятностью 60%;\n• Особый сертификат американского танка с вероятностью 15%."
+"storage/Items/guarante_drop_token_usa_26/Features": "Если у тебя есть все танки из списка, ты получишь компенсацию 5 000 золота"
+"storage/Items/guarante_drop_token_usa_26/Title": "Особый сертификат американского танка"
+"storage/Items/guarante_drop_token_usa_26/Description": "Позволяет получить американский танк из списка, которого нет у тебя в Ангаре"
+"storage/Items/guarante_drop_token_usa_26/Obtainment": "Открывай Американские контейнеры XL"
+"storage/Items/profile_skin_NY_First_2027_quest/Title": "Попытка не пытка"
+"storage/Items/profile_skin_NY_First_2027_quest/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/chest_2027_NY_FIRST_camo/Title": "Попытка не пытка"
+"storage/Items/chest_2027_NY_FIRST_camo/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"avatars/Items/avatar_NY_First_2027_quest/Title": "Попытка не пытка"
+"avatars/Items/avatar_NY_First_2027_quest/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/stuffQuest_2027_NY_FIRST_1/Title": "Попытка не пытка"
+"storage/Items/stuffQuest_2027_NY_FIRST_1/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/stuffQuest_2027_NY_FIRST_2/Title": "Попытка не пытка"
+"storage/Items/stuffQuest_2027_NY_FIRST_2/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/stuffQuest_2027_NY_FIRST_3/Title": "Попытка не пытка"
+"storage/Items/stuffQuest_2027_NY_FIRST_3/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/stuffQuest_2027_NY_FIRST_4/Title": "Попытка не пытка"
+"storage/Items/stuffQuest_2027_NY_FIRST_4/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/stuffQuest_2027_NY_FIRST_5/Title": "Попытка не пытка"
+"storage/Items/stuffQuest_2027_NY_FIRST_5/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/stuffQuest_2027_NY_FIRST_6/Title": "Попытка не пытка"
+"storage/Items/stuffQuest_2027_NY_FIRST_6/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/stuffQuest_2027_NY_FIRST_7/Title": "Попытка не пытка"
+"storage/Items/stuffQuest_2027_NY_FIRST_7/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/stuffQuest_2027_NY_FIRST_8/Title": "Попытка не пытка"
+"storage/Items/stuffQuest_2027_NY_FIRST_8/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/stuffQuest_2027_NY_FIRST_9/Title": "Попытка не пытка"
+"storage/Items/stuffQuest_2027_NY_FIRST_9/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/stuffQuest_2027_NY_FIRST_10/Title": "Попытка не пытка"
+"storage/Items/stuffQuest_2027_NY_FIRST_10/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/stuffQuest_2027_NY_FIRST_11/Title": "Попытка не пытка"
+"storage/Items/stuffQuest_2027_NY_FIRST_11/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/stuffQuest_2027_NY_FIRST_12/Title": "Попытка не пытка"
+"storage/Items/stuffQuest_2027_NY_FIRST_12/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/profile_skin_w2627/Title": "Попытка не пытка"
+"storage/Items/profile_skin_w2627/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"avatars/Items/avatar_w2627_legendary/Title": "Попытка не пытка"
+"avatars/Items/avatar_w2627_legendary/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"avatars/Items/avatar_w2627_anim/Title": "Попытка не пытка"
+"avatars/Items/avatar_w2627_anim/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/w27tkt/Title": "Попытка не пытка"
+"storage/Items/w27tkt/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/w27tkt_f/Title": "Попытка не пытка"
+"storage/Items/w27tkt_f/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
